@@ -1,0 +1,5706 @@
+{
+  "venues": [
+    {
+      "id": 1,
+      "location": {
+        "postalCode": "98-852",
+        "name": "Gogolin"
+      },
+      "pricePerNightInEur": 21.19,
+      "rating": 3.05,
+      "capacity": 6,
+      "name": "immense-subsection",
+      "albumId": 1,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=12756"
+    },
+    {
+      "id": 2,
+      "location": {
+        "postalCode": "33-431",
+        "name": "Pajęczno"
+      },
+      "pricePerNightInEur": 14.69,
+      "rating": 1.87,
+      "capacity": 1,
+      "name": "unsung-width",
+      "albumId": 2,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33065"
+    },
+    {
+      "id": 3,
+      "location": {
+        "postalCode": "96-460",
+        "name": "Wolin"
+      },
+      "pricePerNightInEur": 14.73,
+      "rating": 2.52,
+      "capacity": 3,
+      "name": "empty-gambling",
+      "albumId": 3,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33229"
+    },
+    {
+      "id": 4,
+      "location": {
+        "postalCode": "46-947",
+        "name": "Gryfino"
+      },
+      "pricePerNightInEur": 16.42,
+      "rating": 2.83,
+      "capacity": 4,
+      "name": "open-cowboy",
+      "albumId": 4,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=10366"
+    },
+    {
+      "id": 5,
+      "location": {
+        "postalCode": "05-997",
+        "name": "Grójec"
+      },
+      "pricePerNightInEur": 14.61,
+      "rating": 3.52,
+      "capacity": 6,
+      "name": "lean-guess",
+      "albumId": 5,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=69804"
+    },
+    {
+      "id": 6,
+      "location": {
+        "postalCode": "83-299",
+        "name": "Hrubieszów"
+      },
+      "pricePerNightInEur": 13.73,
+      "rating": 2.89,
+      "capacity": 2,
+      "name": "poised-mixer",
+      "albumId": 6,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=11158"
+    },
+    {
+      "id": 7,
+      "location": {
+        "postalCode": "26-126",
+        "name": "Ozorków"
+      },
+      "pricePerNightInEur": 21.65,
+      "rating": 3.79,
+      "capacity": 3,
+      "name": "agitated-carrot",
+      "albumId": 7,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=7599"
+    },
+    {
+      "id": 8,
+      "location": {
+        "postalCode": "95-212",
+        "name": "Strzelce Krajeńskie"
+      },
+      "pricePerNightInEur": 31.21,
+      "rating": 1.28,
+      "capacity": 2,
+      "name": "joyful-dessert",
+      "albumId": 8,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33246"
+    },
+    {
+      "id": 9,
+      "location": {
+        "postalCode": "87-913",
+        "name": "Cieszanów"
+      },
+      "pricePerNightInEur": 28.72,
+      "rating": 2.61,
+      "capacity": 6,
+      "name": "joyful-spike",
+      "albumId": 9,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=97632"
+    },
+    {
+      "id": 10,
+      "location": {
+        "postalCode": "56-891",
+        "name": "Nowy Dwór Gdański"
+      },
+      "pricePerNightInEur": 19.53,
+      "rating": 3.18,
+      "capacity": 6,
+      "name": "prudent-stock-in-trade",
+      "albumId": 10,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=66045"
+    },
+    {
+      "id": 11,
+      "location": {
+        "postalCode": "20-786",
+        "name": "Sędziszów"
+      },
+      "pricePerNightInEur": 24.83,
+      "rating": 2.89,
+      "capacity": 5,
+      "name": "delectable-combination",
+      "albumId": 11,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=47671"
+    },
+    {
+      "id": 12,
+      "location": {
+        "postalCode": "68-983",
+        "name": "Kowary"
+      },
+      "pricePerNightInEur": 31.01,
+      "rating": 3.5,
+      "capacity": 3,
+      "name": "huge-zoology",
+      "albumId": 12,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=10581"
+    },
+    {
+      "id": 13,
+      "location": {
+        "postalCode": "41-445",
+        "name": "Suwałki"
+      },
+      "pricePerNightInEur": 16.87,
+      "rating": 2.75,
+      "capacity": 7,
+      "name": "careful-slaw",
+      "albumId": 13,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=58654"
+    },
+    {
+      "id": 14,
+      "location": {
+        "postalCode": "42-954",
+        "name": "Nowe Brzesko"
+      },
+      "pricePerNightInEur": 24.87,
+      "rating": 4.64,
+      "capacity": 3,
+      "name": "short-term-bust",
+      "albumId": 14,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=97851"
+    },
+    {
+      "id": 15,
+      "location": {
+        "postalCode": "86-924",
+        "name": "Siemianowice Śląskie"
+      },
+      "pricePerNightInEur": 32,
+      "rating": 1.32,
+      "capacity": 8,
+      "name": "infinite-recruit",
+      "albumId": 15,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=31756"
+    },
+    {
+      "id": 16,
+      "location": {
+        "postalCode": "09-828",
+        "name": "Książ Wielkopolski"
+      },
+      "pricePerNightInEur": 17.83,
+      "rating": 4.63,
+      "capacity": 4,
+      "name": "new-cough",
+      "albumId": 16,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=37517"
+    },
+    {
+      "id": 17,
+      "location": {
+        "postalCode": "43-534",
+        "name": "Drohiczyn"
+      },
+      "pricePerNightInEur": 13.5,
+      "rating": 3.79,
+      "capacity": 2,
+      "name": "jaded-cane",
+      "albumId": 17,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=98595"
+    },
+    {
+      "id": 18,
+      "location": {
+        "postalCode": "70-041",
+        "name": "Kuźnia Raciborska"
+      },
+      "pricePerNightInEur": 25.21,
+      "rating": 1.48,
+      "capacity": 4,
+      "name": "passionate-truck",
+      "albumId": 18,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=35957"
+    },
+    {
+      "id": 19,
+      "location": {
+        "postalCode": "76-522",
+        "name": "Świnoujście"
+      },
+      "pricePerNightInEur": 11.91,
+      "rating": 4.11,
+      "capacity": 6,
+      "name": "witty-coyote",
+      "albumId": 19,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=59398"
+    },
+    {
+      "id": 20,
+      "location": {
+        "postalCode": "98-073",
+        "name": "Skalbmierz"
+      },
+      "pricePerNightInEur": 26.11,
+      "rating": 4.58,
+      "capacity": 3,
+      "name": "windy-coke",
+      "albumId": 20,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=46593"
+    },
+    {
+      "id": 21,
+      "location": {
+        "postalCode": "14-824",
+        "name": "Łapy"
+      },
+      "pricePerNightInEur": 19.49,
+      "rating": 1.09,
+      "capacity": 5,
+      "name": "glass-ex-husband",
+      "albumId": 21,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=9465"
+    },
+    {
+      "id": 22,
+      "location": {
+        "postalCode": "98-551",
+        "name": "Łowicz"
+      },
+      "pricePerNightInEur": 33.33,
+      "rating": 2.65,
+      "capacity": 5,
+      "name": "absolute-believer",
+      "albumId": 22,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30757"
+    },
+    {
+      "id": 23,
+      "location": {
+        "postalCode": "12-521",
+        "name": "Pilzno"
+      },
+      "pricePerNightInEur": 30.63,
+      "rating": 1.14,
+      "capacity": 7,
+      "name": "bitter-corduroy",
+      "albumId": 23,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89590"
+    },
+    {
+      "id": 24,
+      "location": {
+        "postalCode": "95-424",
+        "name": "Gniezno"
+      },
+      "pricePerNightInEur": 25.63,
+      "rating": 1.05,
+      "capacity": 6,
+      "name": "bustling-developer",
+      "albumId": 24,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=99113"
+    },
+    {
+      "id": 25,
+      "location": {
+        "postalCode": "78-484",
+        "name": "Rejowiec Fabryczny"
+      },
+      "pricePerNightInEur": 28.33,
+      "rating": 4.39,
+      "capacity": 7,
+      "name": "pink-grid",
+      "albumId": 25,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=34565"
+    },
+    {
+      "id": 26,
+      "location": {
+        "postalCode": "20-906",
+        "name": "Białogard"
+      },
+      "pricePerNightInEur": 19.3,
+      "rating": 1.78,
+      "capacity": 6,
+      "name": "violet-advertising",
+      "albumId": 26,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=78304"
+    },
+    {
+      "id": 27,
+      "location": {
+        "postalCode": "65-083",
+        "name": "Bojanowo"
+      },
+      "pricePerNightInEur": 18.15,
+      "rating": 1.61,
+      "capacity": 5,
+      "name": "urban-millisecond",
+      "albumId": 27,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=73868"
+    },
+    {
+      "id": 28,
+      "location": {
+        "postalCode": "68-921",
+        "name": "Chodzież"
+      },
+      "pricePerNightInEur": 28.49,
+      "rating": 4.41,
+      "capacity": 3,
+      "name": "aged-digestion",
+      "albumId": 28,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=7679"
+    },
+    {
+      "id": 29,
+      "location": {
+        "postalCode": "25-702",
+        "name": "Bytów"
+      },
+      "pricePerNightInEur": 11.79,
+      "rating": 2.6,
+      "capacity": 8,
+      "name": "amusing-relief",
+      "albumId": 29,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=63380"
+    },
+    {
+      "id": 30,
+      "location": {
+        "postalCode": "80-395",
+        "name": "Przedbórz"
+      },
+      "pricePerNightInEur": 14.93,
+      "rating": 4.28,
+      "capacity": 3,
+      "name": "medium-sentence",
+      "albumId": 30,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=20957"
+    },
+    {
+      "id": 31,
+      "location": {
+        "postalCode": "76-096",
+        "name": "Gorzów Śląski"
+      },
+      "pricePerNightInEur": 31.36,
+      "rating": 4.55,
+      "capacity": 7,
+      "name": "worse-blast",
+      "albumId": 31,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=39354"
+    },
+    {
+      "id": 32,
+      "location": {
+        "postalCode": "41-765",
+        "name": "Warszawa"
+      },
+      "pricePerNightInEur": 34.74,
+      "rating": 4.82,
+      "capacity": 3,
+      "name": "neighboring-mimosa",
+      "albumId": 32,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=41134"
+    },
+    {
+      "id": 33,
+      "location": {
+        "postalCode": "91-714",
+        "name": "Siemiatycze"
+      },
+      "pricePerNightInEur": 18.2,
+      "rating": 1.89,
+      "capacity": 1,
+      "name": "round-geek",
+      "albumId": 33,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=58241"
+    },
+    {
+      "id": 34,
+      "location": {
+        "postalCode": "07-375",
+        "name": "Głuszyca"
+      },
+      "pricePerNightInEur": 31.04,
+      "rating": 2.7,
+      "capacity": 5,
+      "name": "silent-regulation",
+      "albumId": 34,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=6108"
+    },
+    {
+      "id": 35,
+      "location": {
+        "postalCode": "48-633",
+        "name": "Białobrzegi"
+      },
+      "pricePerNightInEur": 12.89,
+      "rating": 1.93,
+      "capacity": 2,
+      "name": "feminine-rake",
+      "albumId": 35,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=18628"
+    },
+    {
+      "id": 36,
+      "location": {
+        "postalCode": "00-506",
+        "name": "Lubawka"
+      },
+      "pricePerNightInEur": 34.03,
+      "rating": 4.65,
+      "capacity": 2,
+      "name": "steep-repayment",
+      "albumId": 36,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=61280"
+    },
+    {
+      "id": 37,
+      "location": {
+        "postalCode": "54-703",
+        "name": "Babimost"
+      },
+      "pricePerNightInEur": 11.85,
+      "rating": 1.27,
+      "capacity": 2,
+      "name": "exhausted-ignorant",
+      "albumId": 37,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=38449"
+    },
+    {
+      "id": 38,
+      "location": {
+        "postalCode": "08-857",
+        "name": "Nowy Sącz"
+      },
+      "pricePerNightInEur": 34.5,
+      "rating": 4.55,
+      "capacity": 3,
+      "name": "official-mallard",
+      "albumId": 38,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=36794"
+    },
+    {
+      "id": 39,
+      "location": {
+        "postalCode": "34-548",
+        "name": "Koprzywnica"
+      },
+      "pricePerNightInEur": 18.69,
+      "rating": 2.71,
+      "capacity": 8,
+      "name": "cooked-nutrition",
+      "albumId": 39,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=24109"
+    },
+    {
+      "id": 40,
+      "location": {
+        "postalCode": "50-175",
+        "name": "Zakliczyn"
+      },
+      "pricePerNightInEur": 10.59,
+      "rating": 2.66,
+      "capacity": 7,
+      "name": "back-scow",
+      "albumId": 40,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=58247"
+    },
+    {
+      "id": 41,
+      "location": {
+        "postalCode": "33-171",
+        "name": "Kielce"
+      },
+      "pricePerNightInEur": 16.5,
+      "rating": 3.99,
+      "capacity": 8,
+      "name": "evil-strait",
+      "albumId": 41,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=87667"
+    },
+    {
+      "id": 42,
+      "location": {
+        "postalCode": "90-672",
+        "name": "Poniec"
+      },
+      "pricePerNightInEur": 28.46,
+      "rating": 2.74,
+      "capacity": 2,
+      "name": "gracious-incidence",
+      "albumId": 42,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=70927"
+    },
+    {
+      "id": 43,
+      "location": {
+        "postalCode": "23-382",
+        "name": "Zator"
+      },
+      "pricePerNightInEur": 17.95,
+      "rating": 2,
+      "capacity": 8,
+      "name": "boiling-explosion",
+      "albumId": 43,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=81804"
+    },
+    {
+      "id": 44,
+      "location": {
+        "postalCode": "82-680",
+        "name": "Kostrzyn nad Odrą"
+      },
+      "pricePerNightInEur": 17.29,
+      "rating": 2.92,
+      "capacity": 2,
+      "name": "vigorous-forever",
+      "albumId": 44,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=26856"
+    },
+    {
+      "id": 45,
+      "location": {
+        "postalCode": "73-011",
+        "name": "Sulejówek"
+      },
+      "pricePerNightInEur": 15.27,
+      "rating": 3.38,
+      "capacity": 8,
+      "name": "deserted-month",
+      "albumId": 45,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=27369"
+    },
+    {
+      "id": 46,
+      "location": {
+        "postalCode": "37-198",
+        "name": "Starogard Gdański"
+      },
+      "pricePerNightInEur": 16.01,
+      "rating": 1.43,
+      "capacity": 8,
+      "name": "sore-utensil",
+      "albumId": 46,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=66186"
+    },
+    {
+      "id": 47,
+      "location": {
+        "postalCode": "17-252",
+        "name": "Dolsk"
+      },
+      "pricePerNightInEur": 19.12,
+      "rating": 4.24,
+      "capacity": 6,
+      "name": "expensive-potty",
+      "albumId": 47,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=39152"
+    },
+    {
+      "id": 48,
+      "location": {
+        "postalCode": "02-530",
+        "name": "Iława"
+      },
+      "pricePerNightInEur": 31.97,
+      "rating": 4.31,
+      "capacity": 6,
+      "name": "optimal-succotash",
+      "albumId": 48,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=17228"
+    },
+    {
+      "id": 49,
+      "location": {
+        "postalCode": "94-187",
+        "name": "Chodecz"
+      },
+      "pricePerNightInEur": 32.61,
+      "rating": 3.93,
+      "capacity": 5,
+      "name": "whispered-adrenalin",
+      "albumId": 49,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=64662"
+    },
+    {
+      "id": 50,
+      "location": {
+        "postalCode": "70-707",
+        "name": "Skierniewice"
+      },
+      "pricePerNightInEur": 13.35,
+      "rating": 3.38,
+      "capacity": 7,
+      "name": "clear-sole",
+      "albumId": 50,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=95009"
+    },
+    {
+      "id": 51,
+      "location": {
+        "postalCode": "37-766",
+        "name": "Pogorzela"
+      },
+      "pricePerNightInEur": 13.75,
+      "rating": 2.74,
+      "capacity": 1,
+      "name": "every-sturgeon",
+      "albumId": 51,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89677"
+    },
+    {
+      "id": 52,
+      "location": {
+        "postalCode": "61-916",
+        "name": "Kamieńsk"
+      },
+      "pricePerNightInEur": 31.38,
+      "rating": 3.76,
+      "capacity": 7,
+      "name": "growling-spray",
+      "albumId": 52,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=59869"
+    },
+    {
+      "id": 53,
+      "location": {
+        "postalCode": "84-201",
+        "name": "Susz"
+      },
+      "pricePerNightInEur": 34.73,
+      "rating": 4.28,
+      "capacity": 6,
+      "name": "pointless-garment",
+      "albumId": 53,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33786"
+    },
+    {
+      "id": 54,
+      "location": {
+        "postalCode": "45-431",
+        "name": "Brodnica"
+      },
+      "pricePerNightInEur": 34.84,
+      "rating": 4.53,
+      "capacity": 1,
+      "name": "dual-invader",
+      "albumId": 54,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89334"
+    },
+    {
+      "id": 55,
+      "location": {
+        "postalCode": "19-304",
+        "name": "Szczyrk"
+      },
+      "pricePerNightInEur": 28.33,
+      "rating": 4.4,
+      "capacity": 2,
+      "name": "lovable-virus",
+      "albumId": 55,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=92290"
+    },
+    {
+      "id": 56,
+      "location": {
+        "postalCode": "60-320",
+        "name": "Nowy Dwór Mazowiecki"
+      },
+      "pricePerNightInEur": 26.38,
+      "rating": 1.94,
+      "capacity": 4,
+      "name": "grand-corridor",
+      "albumId": 56,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=41131"
+    },
+    {
+      "id": 57,
+      "location": {
+        "postalCode": "17-501",
+        "name": "Imielin"
+      },
+      "pricePerNightInEur": 20.18,
+      "rating": 1.48,
+      "capacity": 1,
+      "name": "advanced-alcohol",
+      "albumId": 57,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=77404"
+    },
+    {
+      "id": 58,
+      "location": {
+        "postalCode": "66-862",
+        "name": "Starachowice"
+      },
+      "pricePerNightInEur": 21.53,
+      "rating": 2.75,
+      "capacity": 5,
+      "name": "orderly-destiny",
+      "albumId": 58,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=41039"
+    },
+    {
+      "id": 59,
+      "location": {
+        "postalCode": "08-606",
+        "name": "Starogard Gdański"
+      },
+      "pricePerNightInEur": 23.2,
+      "rating": 3.24,
+      "capacity": 3,
+      "name": "impish-omelet",
+      "albumId": 59,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=10113"
+    },
+    {
+      "id": 60,
+      "location": {
+        "postalCode": "26-980",
+        "name": "Barwice"
+      },
+      "pricePerNightInEur": 17.81,
+      "rating": 4.09,
+      "capacity": 3,
+      "name": "intentional-cursor",
+      "albumId": 60,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=31143"
+    },
+    {
+      "id": 61,
+      "location": {
+        "postalCode": "21-712",
+        "name": "Brańsk"
+      },
+      "pricePerNightInEur": 13.3,
+      "rating": 4.18,
+      "capacity": 5,
+      "name": "victorious-junk",
+      "albumId": 61,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=13305"
+    },
+    {
+      "id": 62,
+      "location": {
+        "postalCode": "79-077",
+        "name": "Bartoszyce"
+      },
+      "pricePerNightInEur": 32.17,
+      "rating": 2.19,
+      "capacity": 8,
+      "name": "itchy-position",
+      "albumId": 62,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=52596"
+    },
+    {
+      "id": 63,
+      "location": {
+        "postalCode": "84-687",
+        "name": "Łaszczów"
+      },
+      "pricePerNightInEur": 34.02,
+      "rating": 4.65,
+      "capacity": 8,
+      "name": "friendly-tatami",
+      "albumId": 63,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=38258"
+    },
+    {
+      "id": 64,
+      "location": {
+        "postalCode": "77-172",
+        "name": "Garwolin"
+      },
+      "pricePerNightInEur": 30.96,
+      "rating": 2.94,
+      "capacity": 6,
+      "name": "immense-gang",
+      "albumId": 64,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=57191"
+    },
+    {
+      "id": 65,
+      "location": {
+        "postalCode": "49-682",
+        "name": "Myszyniec"
+      },
+      "pricePerNightInEur": 12.71,
+      "rating": 1.59,
+      "capacity": 4,
+      "name": "worthy-broiler",
+      "albumId": 65,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=16940"
+    },
+    {
+      "id": 66,
+      "location": {
+        "postalCode": "68-974",
+        "name": "Ogrodzieniec"
+      },
+      "pricePerNightInEur": 20.26,
+      "rating": 4.86,
+      "capacity": 4,
+      "name": "haunting-chess",
+      "albumId": 66,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=19800"
+    },
+    {
+      "id": 67,
+      "location": {
+        "postalCode": "00-219",
+        "name": "Rajgród"
+      },
+      "pricePerNightInEur": 25.57,
+      "rating": 1.54,
+      "capacity": 5,
+      "name": "attractive-opium",
+      "albumId": 67,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=45961"
+    },
+    {
+      "id": 68,
+      "location": {
+        "postalCode": "15-433",
+        "name": "Radłów"
+      },
+      "pricePerNightInEur": 34.53,
+      "rating": 2.07,
+      "capacity": 7,
+      "name": "unripe-feast",
+      "albumId": 68,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=50881"
+    },
+    {
+      "id": 69,
+      "location": {
+        "postalCode": "28-909",
+        "name": "Hel"
+      },
+      "pricePerNightInEur": 25.06,
+      "rating": 2.78,
+      "capacity": 7,
+      "name": "greedy-riser",
+      "albumId": 69,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=72016"
+    },
+    {
+      "id": 70,
+      "location": {
+        "postalCode": "60-671",
+        "name": "Czechowice-Dziedzice"
+      },
+      "pricePerNightInEur": 31.67,
+      "rating": 3.2,
+      "capacity": 6,
+      "name": "wicked-society",
+      "albumId": 70,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=64792"
+    },
+    {
+      "id": 71,
+      "location": {
+        "postalCode": "03-404",
+        "name": "Bobolice"
+      },
+      "pricePerNightInEur": 26.36,
+      "rating": 2.69,
+      "capacity": 1,
+      "name": "waterlogged-predecessor",
+      "albumId": 71,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=82192"
+    },
+    {
+      "id": 72,
+      "location": {
+        "postalCode": "91-683",
+        "name": "Kowary"
+      },
+      "pricePerNightInEur": 33.1,
+      "rating": 4.65,
+      "capacity": 8,
+      "name": "ideal-mantel",
+      "albumId": 72,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30704"
+    },
+    {
+      "id": 73,
+      "location": {
+        "postalCode": "17-232",
+        "name": "Woźniki"
+      },
+      "pricePerNightInEur": 30.94,
+      "rating": 1.95,
+      "capacity": 7,
+      "name": "tangible-eyrie",
+      "albumId": 73,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30251"
+    },
+    {
+      "id": 74,
+      "location": {
+        "postalCode": "19-447",
+        "name": "Nekla"
+      },
+      "pricePerNightInEur": 23.37,
+      "rating": 2.41,
+      "capacity": 6,
+      "name": "agreeable-privacy",
+      "albumId": 74,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=38447"
+    },
+    {
+      "id": 75,
+      "location": {
+        "postalCode": "85-668",
+        "name": "Szprotawa"
+      },
+      "pricePerNightInEur": 11.28,
+      "rating": 1.48,
+      "capacity": 7,
+      "name": "square-traveler",
+      "albumId": 75,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=42033"
+    },
+    {
+      "id": 76,
+      "location": {
+        "postalCode": "46-086",
+        "name": "Jastarnia"
+      },
+      "pricePerNightInEur": 33.6,
+      "rating": 4.3,
+      "capacity": 1,
+      "name": "ironclad-streetcar",
+      "albumId": 76,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=50082"
+    },
+    {
+      "id": 77,
+      "location": {
+        "postalCode": "92-558",
+        "name": "Suraż"
+      },
+      "pricePerNightInEur": 23.75,
+      "rating": 4.49,
+      "capacity": 2,
+      "name": "bitter-salesman",
+      "albumId": 77,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=11553"
+    },
+    {
+      "id": 78,
+      "location": {
+        "postalCode": "63-511",
+        "name": "Polkowice"
+      },
+      "pricePerNightInEur": 18.76,
+      "rating": 4.75,
+      "capacity": 4,
+      "name": "satisfied-locomotive",
+      "albumId": 78,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=48824"
+    },
+    {
+      "id": 79,
+      "location": {
+        "postalCode": "80-666",
+        "name": "Józefów"
+      },
+      "pricePerNightInEur": 21.46,
+      "rating": 1.19,
+      "capacity": 8,
+      "name": "worldly-zen",
+      "albumId": 79,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89756"
+    },
+    {
+      "id": 80,
+      "location": {
+        "postalCode": "20-503",
+        "name": "Alwernia"
+      },
+      "pricePerNightInEur": 11.29,
+      "rating": 4.33,
+      "capacity": 8,
+      "name": "sparse-seashore",
+      "albumId": 80,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=81496"
+    },
+    {
+      "id": 81,
+      "location": {
+        "postalCode": "42-048",
+        "name": "Drobin"
+      },
+      "pricePerNightInEur": 32.84,
+      "rating": 2.74,
+      "capacity": 1,
+      "name": "rundown-evidence",
+      "albumId": 81,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=23"
+    },
+    {
+      "id": 82,
+      "location": {
+        "postalCode": "84-948",
+        "name": "Buk"
+      },
+      "pricePerNightInEur": 22.15,
+      "rating": 2.18,
+      "capacity": 5,
+      "name": "lavish-abolishment",
+      "albumId": 82,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=24127"
+    },
+    {
+      "id": 83,
+      "location": {
+        "postalCode": "62-815",
+        "name": "Kleszczele"
+      },
+      "pricePerNightInEur": 33.32,
+      "rating": 3.45,
+      "capacity": 2,
+      "name": "fond-in-joke",
+      "albumId": 83,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=37187"
+    },
+    {
+      "id": 84,
+      "location": {
+        "postalCode": "12-815",
+        "name": "Głowno"
+      },
+      "pricePerNightInEur": 21.51,
+      "rating": 1.68,
+      "capacity": 1,
+      "name": "gray-reason",
+      "albumId": 84,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=1887"
+    },
+    {
+      "id": 85,
+      "location": {
+        "postalCode": "57-739",
+        "name": "Inowrocław"
+      },
+      "pricePerNightInEur": 19.01,
+      "rating": 3.47,
+      "capacity": 8,
+      "name": "dirty-fun",
+      "albumId": 85,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=73854"
+    },
+    {
+      "id": 86,
+      "location": {
+        "postalCode": "70-323",
+        "name": "Rejowiec Fabryczny"
+      },
+      "pricePerNightInEur": 24.38,
+      "rating": 1.09,
+      "capacity": 7,
+      "name": "fluid-alfalfa",
+      "albumId": 86,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=19538"
+    },
+    {
+      "id": 87,
+      "location": {
+        "postalCode": "87-008",
+        "name": "Grójec"
+      },
+      "pricePerNightInEur": 34.29,
+      "rating": 3.6,
+      "capacity": 6,
+      "name": "secondary-engineering",
+      "albumId": 87,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=97746"
+    },
+    {
+      "id": 88,
+      "location": {
+        "postalCode": "51-672",
+        "name": "Łaziska Górne"
+      },
+      "pricePerNightInEur": 12.65,
+      "rating": 1.26,
+      "capacity": 7,
+      "name": "internal-beauty",
+      "albumId": 88,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=31562"
+    },
+    {
+      "id": 89,
+      "location": {
+        "postalCode": "42-392",
+        "name": "Grójec"
+      },
+      "pricePerNightInEur": 28.42,
+      "rating": 2.07,
+      "capacity": 7,
+      "name": "squeaky-insolence",
+      "albumId": 89,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=68160"
+    },
+    {
+      "id": 90,
+      "location": {
+        "postalCode": "64-994",
+        "name": "Trzebnica"
+      },
+      "pricePerNightInEur": 27.93,
+      "rating": 4.1,
+      "capacity": 6,
+      "name": "scholarly-hypochondria",
+      "albumId": 90,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=37534"
+    },
+    {
+      "id": 91,
+      "location": {
+        "postalCode": "04-550",
+        "name": "Wałbrzych"
+      },
+      "pricePerNightInEur": 27.95,
+      "rating": 3.36,
+      "capacity": 8,
+      "name": "white-octave",
+      "albumId": 91,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=98371"
+    },
+    {
+      "id": 92,
+      "location": {
+        "postalCode": "61-056",
+        "name": "Jastarnia"
+      },
+      "pricePerNightInEur": 30.19,
+      "rating": 1.07,
+      "capacity": 4,
+      "name": "truthful-gunpowder",
+      "albumId": 92,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=43658"
+    },
+    {
+      "id": 93,
+      "location": {
+        "postalCode": "34-999",
+        "name": "Świecie"
+      },
+      "pricePerNightInEur": 13.69,
+      "rating": 2.47,
+      "capacity": 6,
+      "name": "distorted-twist",
+      "albumId": 93,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=82764"
+    },
+    {
+      "id": 94,
+      "location": {
+        "postalCode": "34-727",
+        "name": "Dziwnów"
+      },
+      "pricePerNightInEur": 31.33,
+      "rating": 1.51,
+      "capacity": 8,
+      "name": "creepy-impairment",
+      "albumId": 94,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=56779"
+    },
+    {
+      "id": 95,
+      "location": {
+        "postalCode": "28-771",
+        "name": "Sobótka"
+      },
+      "pricePerNightInEur": 16.58,
+      "rating": 4.43,
+      "capacity": 7,
+      "name": "pastel-whey",
+      "albumId": 95,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=78384"
+    },
+    {
+      "id": 96,
+      "location": {
+        "postalCode": "39-895",
+        "name": "Jawor"
+      },
+      "pricePerNightInEur": 20.91,
+      "rating": 4.52,
+      "capacity": 8,
+      "name": "cruel-transit",
+      "albumId": 96,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30325"
+    },
+    {
+      "id": 97,
+      "location": {
+        "postalCode": "31-017",
+        "name": "Nieszawa"
+      },
+      "pricePerNightInEur": 14.09,
+      "rating": 3.07,
+      "capacity": 3,
+      "name": "deficient-bullet",
+      "albumId": 97,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=53403"
+    },
+    {
+      "id": 98,
+      "location": {
+        "postalCode": "75-056",
+        "name": "Rabka-Zdrój"
+      },
+      "pricePerNightInEur": 10.48,
+      "rating": 2.3,
+      "capacity": 7,
+      "name": "ironclad-swamp",
+      "albumId": 98,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=2892"
+    },
+    {
+      "id": 99,
+      "location": {
+        "postalCode": "12-874",
+        "name": "Wleń"
+      },
+      "pricePerNightInEur": 26.83,
+      "rating": 1.88,
+      "capacity": 1,
+      "name": "stunning-corduroy",
+      "albumId": 99,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=46341"
+    },
+    {
+      "id": 100,
+      "location": {
+        "postalCode": "09-568",
+        "name": "Zawadzkie"
+      },
+      "pricePerNightInEur": 28.93,
+      "rating": 2.25,
+      "capacity": 4,
+      "name": "french-spouse",
+      "albumId": 100,
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=67589"
+    }
+  ],
+  "venuesDetails": [
+    {
+      "id": 77765,
+      "venueId": 1,
+      "location": {
+        "postalCode": "98-852",
+        "name": "Gogolin"
+      },
+      "pricePerNightInEur": 21.19,
+      "rating": 3.05,
+      "capacity": 6,
+      "name": "immense-subsection",
+      "albumId": 1,
+      "description": "Possimus aut rerum id repellendus laudantium sunt illum eaque perferendis. Sed consequuntur eos. Reiciendis rem odit laborum incidunt iste. Repellendus alias quasi vel illum asperiores. Accusamus laudantium placeat fugit explicabo quae.",
+      "features": [
+        "sed",
+        "molestias",
+        "delectus",
+        "pariatur",
+        "temporibus",
+        "impedit",
+        "autem",
+        "eius"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 8,
+      "contactDetails": {
+        "phone": "58-637-71-55",
+        "email": "Patrycja54@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=12756",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=85267",
+        "2": "https://loremflickr.com/600/600/nature?lock=45801",
+        "3": "https://loremflickr.com/600/600/nature?lock=71954",
+        "4": "https://loremflickr.com/600/600/nature?lock=99670",
+        "5": "https://loremflickr.com/600/600/nature?lock=59865",
+        "6": "https://loremflickr.com/600/600/nature?lock=72575",
+        "7": "https://loremflickr.com/600/600/nature?lock=23842"
+      }
+    },
+    {
+      "id": 10015,
+      "venueId": 2,
+      "location": {
+        "postalCode": "33-431",
+        "name": "Pajęczno"
+      },
+      "pricePerNightInEur": 14.69,
+      "rating": 1.87,
+      "capacity": 1,
+      "name": "unsung-width",
+      "albumId": 2,
+      "description": "Laudantium dolorem veritatis fugiat quasi dolorem. Delectus debitis atque. Velit quis architecto fugit. Facere unde voluptates natus labore harum recusandae at explicabo possimus. Ratione neque iusto reprehenderit voluptatem ipsam non molestias. Porro itaque exercitationem ipsum adipisci ipsum quaerat.",
+      "features": [
+        "dolorum",
+        "nam",
+        "voluptate",
+        "similique",
+        "delectus",
+        "iure",
+        "laboriosam",
+        "ut",
+        "natus"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "77-776-41-50",
+        "email": "Dominik98@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33065",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=56932",
+        "2": "https://loremflickr.com/600/600/nature?lock=23284",
+        "3": "https://loremflickr.com/600/600/nature?lock=41738",
+        "4": "https://loremflickr.com/600/600/nature?lock=96737",
+        "5": "https://loremflickr.com/600/600/nature?lock=70214",
+        "6": "https://loremflickr.com/600/600/nature?lock=28884",
+        "7": "https://loremflickr.com/600/600/nature?lock=64192"
+      }
+    },
+    {
+      "id": 91439,
+      "venueId": 3,
+      "location": {
+        "postalCode": "96-460",
+        "name": "Wolin"
+      },
+      "pricePerNightInEur": 14.73,
+      "rating": 2.52,
+      "capacity": 3,
+      "name": "empty-gambling",
+      "albumId": 3,
+      "description": "Veniam a eligendi nam ex. Iusto repellendus fugit. Ad dolor laboriosam ipsam. Laborum quo nobis necessitatibus minima dolorem molestiae libero dolor. Molestias blanditiis natus praesentium harum.",
+      "features": [
+        "ea",
+        "voluptatem",
+        "vitae",
+        "illum",
+        "dicta",
+        "eaque",
+        "doloremque",
+        "dolore"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "55-751-08-45",
+        "email": "Atanazy43@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33229",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=29571",
+        "2": "https://loremflickr.com/600/600/nature?lock=93110",
+        "3": "https://loremflickr.com/600/600/nature?lock=53229",
+        "4": "https://loremflickr.com/600/600/nature?lock=82489",
+        "5": "https://loremflickr.com/600/600/nature?lock=37889",
+        "6": "https://loremflickr.com/600/600/nature?lock=6817",
+        "7": "https://loremflickr.com/600/600/nature?lock=54145"
+      }
+    },
+    {
+      "id": 40745,
+      "venueId": 4,
+      "location": {
+        "postalCode": "46-947",
+        "name": "Gryfino"
+      },
+      "pricePerNightInEur": 16.42,
+      "rating": 2.83,
+      "capacity": 4,
+      "name": "open-cowboy",
+      "albumId": 4,
+      "description": "Quibusdam laudantium mollitia corrupti. Soluta nobis sit sunt perferendis eveniet nesciunt nisi tempora illo. Quae illo hic cum ea iste facilis odio accusantium. A maxime veritatis eos recusandae ad debitis consectetur dolorum. Placeat earum vel maiores debitis fuga totam.",
+      "features": [
+        "quas",
+        "veniam",
+        "necessitatibus",
+        "inventore",
+        "magni",
+        "earum",
+        "veritatis"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "55-721-26-56",
+        "email": "Ilona60@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=10366",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=87561",
+        "2": "https://loremflickr.com/600/600/nature?lock=21861",
+        "3": "https://loremflickr.com/600/600/nature?lock=94132",
+        "4": "https://loremflickr.com/600/600/nature?lock=79810",
+        "5": "https://loremflickr.com/600/600/nature?lock=99558",
+        "6": "https://loremflickr.com/600/600/nature?lock=3616",
+        "7": "https://loremflickr.com/600/600/nature?lock=40956"
+      }
+    },
+    {
+      "id": 96778,
+      "venueId": 5,
+      "location": {
+        "postalCode": "05-997",
+        "name": "Grójec"
+      },
+      "pricePerNightInEur": 14.61,
+      "rating": 3.52,
+      "capacity": 6,
+      "name": "lean-guess",
+      "albumId": 5,
+      "description": "Laborum nesciunt saepe est odit rerum. Rerum beatae fugit molestiae quaerat tempore quaerat. Alias accusamus recusandae non architecto deleniti dolores unde. Libero amet placeat labore reprehenderit praesentium ad commodi enim. Suscipit maxime amet hic autem autem nihil voluptas.",
+      "features": [
+        "non",
+        "a",
+        "illum",
+        "recusandae",
+        "repellendus",
+        "atque",
+        "autem",
+        "commodi",
+        "quia"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 7,
+      "contactDetails": {
+        "phone": "63-944-25-58",
+        "email": "Luiza31@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=69804",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=82460",
+        "2": "https://loremflickr.com/600/600/nature?lock=13113",
+        "3": "https://loremflickr.com/600/600/nature?lock=45683",
+        "4": "https://loremflickr.com/600/600/nature?lock=20717",
+        "5": "https://loremflickr.com/600/600/nature?lock=3743",
+        "6": "https://loremflickr.com/600/600/nature?lock=28343",
+        "7": "https://loremflickr.com/600/600/nature?lock=58265"
+      }
+    },
+    {
+      "id": 97195,
+      "venueId": 6,
+      "location": {
+        "postalCode": "83-299",
+        "name": "Hrubieszów"
+      },
+      "pricePerNightInEur": 13.73,
+      "rating": 2.89,
+      "capacity": 2,
+      "name": "poised-mixer",
+      "albumId": 6,
+      "description": "Blanditiis ea quisquam voluptates. Saepe recusandae laboriosam. Facilis odit deserunt fuga ratione reprehenderit. Nobis laudantium quisquam quae voluptatem saepe blanditiis.",
+      "features": [
+        "molestiae",
+        "illum",
+        "cumque",
+        "vero",
+        "excepturi",
+        "occaecati",
+        "eius",
+        "enim"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "56-040-40-73",
+        "email": "Kira49@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=11158",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=84644",
+        "2": "https://loremflickr.com/600/600/nature?lock=71856",
+        "3": "https://loremflickr.com/600/600/nature?lock=15923",
+        "4": "https://loremflickr.com/600/600/nature?lock=6405",
+        "5": "https://loremflickr.com/600/600/nature?lock=40131",
+        "6": "https://loremflickr.com/600/600/nature?lock=47947",
+        "7": "https://loremflickr.com/600/600/nature?lock=38336"
+      }
+    },
+    {
+      "id": 10719,
+      "venueId": 7,
+      "location": {
+        "postalCode": "26-126",
+        "name": "Ozorków"
+      },
+      "pricePerNightInEur": 21.65,
+      "rating": 3.79,
+      "capacity": 3,
+      "name": "agitated-carrot",
+      "albumId": 7,
+      "description": "Incidunt mollitia quidem. Tenetur quidem velit magnam aliquid ipsum nihil eius. Voluptate ratione distinctio aut sit reprehenderit eveniet consequuntur.",
+      "features": ["est", "culpa", "corporis", "odio", "mollitia", "porro"],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "91-000-02-85",
+        "email": "Gonsalwy74@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=7599",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=53239",
+        "2": "https://loremflickr.com/600/600/nature?lock=78354",
+        "3": "https://loremflickr.com/600/600/nature?lock=28028",
+        "4": "https://loremflickr.com/600/600/nature?lock=32562",
+        "5": "https://loremflickr.com/600/600/nature?lock=77470",
+        "6": "https://loremflickr.com/600/600/nature?lock=24098",
+        "7": "https://loremflickr.com/600/600/nature?lock=15516"
+      }
+    },
+    {
+      "id": 41518,
+      "venueId": 8,
+      "location": {
+        "postalCode": "95-212",
+        "name": "Strzelce Krajeńskie"
+      },
+      "pricePerNightInEur": 31.21,
+      "rating": 1.28,
+      "capacity": 2,
+      "name": "joyful-dessert",
+      "albumId": 8,
+      "description": "Ea non voluptate illum unde cum. Dolorem recusandae mollitia voluptatum iste commodi. Dicta sit totam eum debitis voluptatibus qui officia neque quidem. Ad nam voluptates fugit facere possimus accusantium.",
+      "features": [
+        "doloremque",
+        "dolorem",
+        "consectetur",
+        "nihil",
+        "accusantium",
+        "quaerat",
+        "labore",
+        "iusto"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 3,
+      "contactDetails": {
+        "phone": "32-299-26-24",
+        "email": "Mojesz.Stachowiak97@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33246",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=83210",
+        "2": "https://loremflickr.com/600/600/nature?lock=65729",
+        "3": "https://loremflickr.com/600/600/nature?lock=4098",
+        "4": "https://loremflickr.com/600/600/nature?lock=18603",
+        "5": "https://loremflickr.com/600/600/nature?lock=58291",
+        "6": "https://loremflickr.com/600/600/nature?lock=72620",
+        "7": "https://loremflickr.com/600/600/nature?lock=42694"
+      }
+    },
+    {
+      "id": 28257,
+      "venueId": 9,
+      "location": {
+        "postalCode": "87-913",
+        "name": "Cieszanów"
+      },
+      "pricePerNightInEur": 28.72,
+      "rating": 2.61,
+      "capacity": 6,
+      "name": "joyful-spike",
+      "albumId": 9,
+      "description": "Magni sint mollitia deleniti magni ullam recusandae. Eligendi enim recusandae culpa veritatis. Temporibus odio recusandae sed enim voluptas ipsa vero voluptatem.",
+      "features": [
+        "quasi",
+        "doloremque",
+        "harum",
+        "quo",
+        "quis",
+        "perferendis",
+        "itaque",
+        "voluptate"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 5,
+      "contactDetails": {
+        "phone": "65-216-71-67",
+        "email": "Ewelina.Musia@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=97632",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=15186",
+        "2": "https://loremflickr.com/600/600/nature?lock=69846",
+        "3": "https://loremflickr.com/600/600/nature?lock=75759",
+        "4": "https://loremflickr.com/600/600/nature?lock=67487",
+        "5": "https://loremflickr.com/600/600/nature?lock=92584",
+        "6": "https://loremflickr.com/600/600/nature?lock=91409",
+        "7": "https://loremflickr.com/600/600/nature?lock=45568"
+      }
+    },
+    {
+      "id": 49473,
+      "venueId": 10,
+      "location": {
+        "postalCode": "56-891",
+        "name": "Nowy Dwór Gdański"
+      },
+      "pricePerNightInEur": 19.53,
+      "rating": 3.18,
+      "capacity": 6,
+      "name": "prudent-stock-in-trade",
+      "albumId": 10,
+      "description": "Reiciendis aspernatur officiis suscipit. Minima illum molestias. Deleniti dolor temporibus placeat architecto.",
+      "features": [
+        "labore",
+        "quasi",
+        "minima",
+        "beatae",
+        "aliquid",
+        "praesentium"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "91-485-21-43",
+        "email": "Elwira.Wnuk48@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=66045",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=49190",
+        "2": "https://loremflickr.com/600/600/nature?lock=92549",
+        "3": "https://loremflickr.com/600/600/nature?lock=88250",
+        "4": "https://loremflickr.com/600/600/nature?lock=33046",
+        "5": "https://loremflickr.com/600/600/nature?lock=1593",
+        "6": "https://loremflickr.com/600/600/nature?lock=31448",
+        "7": "https://loremflickr.com/600/600/nature?lock=71044"
+      }
+    },
+    {
+      "id": 36771,
+      "venueId": 11,
+      "location": {
+        "postalCode": "20-786",
+        "name": "Sędziszów"
+      },
+      "pricePerNightInEur": 24.83,
+      "rating": 2.89,
+      "capacity": 5,
+      "name": "delectable-combination",
+      "albumId": 11,
+      "description": "Fuga omnis dolorem iste laudantium. Corrupti quam deleniti sed unde odio eum maiores consectetur. Quisquam soluta quaerat. Eos aliquam illum perspiciatis magni delectus quidem eveniet.",
+      "features": [
+        "velit",
+        "dicta",
+        "blanditiis",
+        "corporis",
+        "voluptatibus",
+        "voluptates"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 7,
+      "contactDetails": {
+        "phone": "46-102-24-75",
+        "email": "Korneliusz_Bana@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=47671",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=73717",
+        "2": "https://loremflickr.com/600/600/nature?lock=74010",
+        "3": "https://loremflickr.com/600/600/nature?lock=11606",
+        "4": "https://loremflickr.com/600/600/nature?lock=9969",
+        "5": "https://loremflickr.com/600/600/nature?lock=50144",
+        "6": "https://loremflickr.com/600/600/nature?lock=10941",
+        "7": "https://loremflickr.com/600/600/nature?lock=59300"
+      }
+    },
+    {
+      "id": 85016,
+      "venueId": 12,
+      "location": {
+        "postalCode": "68-983",
+        "name": "Kowary"
+      },
+      "pricePerNightInEur": 31.01,
+      "rating": 3.5,
+      "capacity": 3,
+      "name": "huge-zoology",
+      "albumId": 12,
+      "description": "Ullam cupiditate quasi nihil impedit suscipit deleniti cum. Fugit pariatur minima repellendus adipisci quae eaque praesentium. Ducimus tempore expedita eos est nemo delectus nulla. Aut enim ipsum ea laboriosam. Delectus omnis iusto.",
+      "features": [
+        "tempora",
+        "ea",
+        "voluptatem",
+        "quis",
+        "labore",
+        "repellendus",
+        "cumque",
+        "illum",
+        "corporis",
+        "commodi"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "62-372-76-10",
+        "email": "Gabriela27@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=10581",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=77668",
+        "2": "https://loremflickr.com/600/600/nature?lock=17998",
+        "3": "https://loremflickr.com/600/600/nature?lock=3297",
+        "4": "https://loremflickr.com/600/600/nature?lock=26409",
+        "5": "https://loremflickr.com/600/600/nature?lock=2491",
+        "6": "https://loremflickr.com/600/600/nature?lock=9184",
+        "7": "https://loremflickr.com/600/600/nature?lock=9340"
+      }
+    },
+    {
+      "id": 77461,
+      "venueId": 13,
+      "location": {
+        "postalCode": "41-445",
+        "name": "Suwałki"
+      },
+      "pricePerNightInEur": 16.87,
+      "rating": 2.75,
+      "capacity": 7,
+      "name": "careful-slaw",
+      "albumId": 13,
+      "description": "Vitae culpa ipsa culpa veniam placeat modi harum ipsam. Harum quisquam eligendi quis accusamus earum culpa officiis. Dolore recusandae praesentium sunt.",
+      "features": [
+        "inventore",
+        "explicabo",
+        "quaerat",
+        "ipsa",
+        "doloribus",
+        "minima",
+        "nulla",
+        "harum",
+        "commodi",
+        "quasi"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 8,
+      "contactDetails": {
+        "phone": "29-753-25-67",
+        "email": "Emilia81@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=58654",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=99530",
+        "2": "https://loremflickr.com/600/600/nature?lock=88696",
+        "3": "https://loremflickr.com/600/600/nature?lock=85618",
+        "4": "https://loremflickr.com/600/600/nature?lock=95657",
+        "5": "https://loremflickr.com/600/600/nature?lock=13990",
+        "6": "https://loremflickr.com/600/600/nature?lock=60628",
+        "7": "https://loremflickr.com/600/600/nature?lock=67946"
+      }
+    },
+    {
+      "id": 23441,
+      "venueId": 14,
+      "location": {
+        "postalCode": "42-954",
+        "name": "Nowe Brzesko"
+      },
+      "pricePerNightInEur": 24.87,
+      "rating": 4.64,
+      "capacity": 3,
+      "name": "short-term-bust",
+      "albumId": 14,
+      "description": "Iste perferendis eveniet voluptas doloremque cumque esse provident. Neque natus ratione ipsum ipsam animi. Eveniet deserunt iste praesentium excepturi.",
+      "features": [
+        "consectetur",
+        "hic",
+        "est",
+        "distinctio",
+        "consequuntur",
+        "distinctio",
+        "incidunt"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 7,
+      "contactDetails": {
+        "phone": "41-946-25-67",
+        "email": "Ryszard.Golec63@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=97851",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=76061",
+        "2": "https://loremflickr.com/600/600/nature?lock=67447",
+        "3": "https://loremflickr.com/600/600/nature?lock=19557",
+        "4": "https://loremflickr.com/600/600/nature?lock=37215",
+        "5": "https://loremflickr.com/600/600/nature?lock=94520",
+        "6": "https://loremflickr.com/600/600/nature?lock=2501",
+        "7": "https://loremflickr.com/600/600/nature?lock=14148"
+      }
+    },
+    {
+      "id": 81139,
+      "venueId": 15,
+      "location": {
+        "postalCode": "86-924",
+        "name": "Siemianowice Śląskie"
+      },
+      "pricePerNightInEur": 32,
+      "rating": 1.32,
+      "capacity": 8,
+      "name": "infinite-recruit",
+      "albumId": 15,
+      "description": "Illum deserunt ipsa. Accusamus harum mollitia consequuntur. Molestiae unde eaque omnis voluptate quasi est in nam. Eligendi nesciunt aut voluptate fugit necessitatibus similique occaecati. Eligendi sunt magnam molestias dignissimos.",
+      "features": ["et", "esse", "similique", "amet", "aliquid", "modi"],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "91-244-67-14",
+        "email": "Salwator_Bober@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=31756",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=84910",
+        "2": "https://loremflickr.com/600/600/nature?lock=61274",
+        "3": "https://loremflickr.com/600/600/nature?lock=58829",
+        "4": "https://loremflickr.com/600/600/nature?lock=9289",
+        "5": "https://loremflickr.com/600/600/nature?lock=47420",
+        "6": "https://loremflickr.com/600/600/nature?lock=62756",
+        "7": "https://loremflickr.com/600/600/nature?lock=38591"
+      }
+    },
+    {
+      "id": 17022,
+      "venueId": 16,
+      "location": {
+        "postalCode": "09-828",
+        "name": "Książ Wielkopolski"
+      },
+      "pricePerNightInEur": 17.83,
+      "rating": 4.63,
+      "capacity": 4,
+      "name": "new-cough",
+      "albumId": 16,
+      "description": "Vitae officia quae. Eveniet necessitatibus vitae id illo necessitatibus. Reprehenderit minima quo. Necessitatibus ducimus eos maiores necessitatibus magni vel. Dignissimos aperiam recusandae ipsa vitae cumque deserunt reprehenderit deserunt.",
+      "features": ["mollitia", "et", "neque", "omnis", "tenetur", "blanditiis"],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 7,
+      "contactDetails": {
+        "phone": "25-389-09-50",
+        "email": "Izajasz.Wicek49@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=37517",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=45794",
+        "2": "https://loremflickr.com/600/600/nature?lock=82920",
+        "3": "https://loremflickr.com/600/600/nature?lock=272",
+        "4": "https://loremflickr.com/600/600/nature?lock=53258",
+        "5": "https://loremflickr.com/600/600/nature?lock=63291",
+        "6": "https://loremflickr.com/600/600/nature?lock=43581",
+        "7": "https://loremflickr.com/600/600/nature?lock=54336"
+      }
+    },
+    {
+      "id": 18031,
+      "venueId": 17,
+      "location": {
+        "postalCode": "43-534",
+        "name": "Drohiczyn"
+      },
+      "pricePerNightInEur": 13.5,
+      "rating": 3.79,
+      "capacity": 2,
+      "name": "jaded-cane",
+      "albumId": 17,
+      "description": "Commodi reprehenderit reiciendis aperiam. Sequi animi molestiae fugiat dignissimos hic harum totam possimus. Quisquam rerum aliquam sapiente corporis. Quia tempora sapiente fuga. Voluptatum quos adipisci ex accusantium tenetur in repellendus ipsa. Labore et vitae.",
+      "features": [
+        "perferendis",
+        "eaque",
+        "iure",
+        "sequi",
+        "aliquid",
+        "recusandae",
+        "expedita",
+        "eligendi"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "95-840-95-42",
+        "email": "Laura.Staszewski99@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=98595",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=12350",
+        "2": "https://loremflickr.com/600/600/nature?lock=72333",
+        "3": "https://loremflickr.com/600/600/nature?lock=12788",
+        "4": "https://loremflickr.com/600/600/nature?lock=18040",
+        "5": "https://loremflickr.com/600/600/nature?lock=77282",
+        "6": "https://loremflickr.com/600/600/nature?lock=43664",
+        "7": "https://loremflickr.com/600/600/nature?lock=15276"
+      }
+    },
+    {
+      "id": 5084,
+      "venueId": 18,
+      "location": {
+        "postalCode": "70-041",
+        "name": "Kuźnia Raciborska"
+      },
+      "pricePerNightInEur": 25.21,
+      "rating": 1.48,
+      "capacity": 4,
+      "name": "passionate-truck",
+      "albumId": 18,
+      "description": "Nostrum delectus enim iste numquam totam repudiandae maiores recusandae doloribus. Dolorem similique doloribus facilis nemo aperiam sequi. Magnam unde eos saepe voluptas dolor. Nemo consequatur ipsum similique laborum doloribus accusamus.",
+      "features": [
+        "voluptatum",
+        "libero",
+        "temporibus",
+        "mollitia",
+        "temporibus",
+        "id",
+        "maiores",
+        "exercitationem",
+        "libero"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "55-062-77-33",
+        "email": "Ambroy19@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=35957",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=86533",
+        "2": "https://loremflickr.com/600/600/nature?lock=25467",
+        "3": "https://loremflickr.com/600/600/nature?lock=98000",
+        "4": "https://loremflickr.com/600/600/nature?lock=34666",
+        "5": "https://loremflickr.com/600/600/nature?lock=17093",
+        "6": "https://loremflickr.com/600/600/nature?lock=60294",
+        "7": "https://loremflickr.com/600/600/nature?lock=98302"
+      }
+    },
+    {
+      "id": 19771,
+      "venueId": 19,
+      "location": {
+        "postalCode": "76-522",
+        "name": "Świnoujście"
+      },
+      "pricePerNightInEur": 11.91,
+      "rating": 4.11,
+      "capacity": 6,
+      "name": "witty-coyote",
+      "albumId": 19,
+      "description": "Sed praesentium hic maiores ullam repudiandae repellendus enim voluptatum. Laborum autem saepe aspernatur saepe. Pariatur labore voluptatem rerum et tempore inventore ipsam. Eveniet aperiam laborum blanditiis.",
+      "features": [
+        "qui",
+        "tempora",
+        "magnam",
+        "nam",
+        "dolores",
+        "earum",
+        "optio",
+        "sed",
+        "deserunt"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 1,
+      "contactDetails": {
+        "phone": "82-130-28-13",
+        "email": "Izolda48@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=59398",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=97320",
+        "2": "https://loremflickr.com/600/600/nature?lock=10883",
+        "3": "https://loremflickr.com/600/600/nature?lock=773",
+        "4": "https://loremflickr.com/600/600/nature?lock=60764",
+        "5": "https://loremflickr.com/600/600/nature?lock=25087",
+        "6": "https://loremflickr.com/600/600/nature?lock=14371",
+        "7": "https://loremflickr.com/600/600/nature?lock=73703"
+      }
+    },
+    {
+      "id": 79184,
+      "venueId": 20,
+      "location": {
+        "postalCode": "98-073",
+        "name": "Skalbmierz"
+      },
+      "pricePerNightInEur": 26.11,
+      "rating": 4.58,
+      "capacity": 3,
+      "name": "windy-coke",
+      "albumId": 20,
+      "description": "Dolore architecto nulla harum rem cumque dolor totam ex. Nesciunt officiis repellendus provident repellendus occaecati placeat ipsum. Dolores sit aperiam dolore veritatis quaerat. Neque autem iste eum veritatis officiis.",
+      "features": [
+        "enim",
+        "expedita",
+        "eum",
+        "nobis",
+        "atque",
+        "ipsum",
+        "laboriosam",
+        "cupiditate",
+        "cupiditate"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "84-052-46-77",
+        "email": "Sylwia17@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=46593",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=4094",
+        "2": "https://loremflickr.com/600/600/nature?lock=43709",
+        "3": "https://loremflickr.com/600/600/nature?lock=83173",
+        "4": "https://loremflickr.com/600/600/nature?lock=42110",
+        "5": "https://loremflickr.com/600/600/nature?lock=24319",
+        "6": "https://loremflickr.com/600/600/nature?lock=16775",
+        "7": "https://loremflickr.com/600/600/nature?lock=78581"
+      }
+    },
+    {
+      "id": 5011,
+      "venueId": 21,
+      "location": {
+        "postalCode": "14-824",
+        "name": "Łapy"
+      },
+      "pricePerNightInEur": 19.49,
+      "rating": 1.09,
+      "capacity": 5,
+      "name": "glass-ex-husband",
+      "albumId": 21,
+      "description": "Minima ducimus velit perspiciatis consectetur. Fugit cumque inventore exercitationem. Itaque accusamus odio sint fugiat quasi. Alias aliquam autem doloribus. Temporibus quos enim. Ipsa accusantium accusantium ex quas.",
+      "features": [
+        "sapiente",
+        "tempora",
+        "corporis",
+        "rem",
+        "quia",
+        "architecto",
+        "aspernatur"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "68-613-92-98",
+        "email": "Dawid32@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=9465",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=13043",
+        "2": "https://loremflickr.com/600/600/nature?lock=68162",
+        "3": "https://loremflickr.com/600/600/nature?lock=36628",
+        "4": "https://loremflickr.com/600/600/nature?lock=34931",
+        "5": "https://loremflickr.com/600/600/nature?lock=2087",
+        "6": "https://loremflickr.com/600/600/nature?lock=30220",
+        "7": "https://loremflickr.com/600/600/nature?lock=642"
+      }
+    },
+    {
+      "id": 70437,
+      "venueId": 22,
+      "location": {
+        "postalCode": "98-551",
+        "name": "Łowicz"
+      },
+      "pricePerNightInEur": 33.33,
+      "rating": 2.65,
+      "capacity": 5,
+      "name": "absolute-believer",
+      "albumId": 22,
+      "description": "Temporibus magnam dolor earum nulla similique facilis similique. Amet sint adipisci aperiam iste libero iure at aspernatur mollitia. Iusto dolor labore debitis. In iste placeat sapiente vitae. Iure architecto excepturi quos ad voluptatum dolorem.",
+      "features": [
+        "similique",
+        "porro",
+        "beatae",
+        "accusamus",
+        "non",
+        "at",
+        "ipsa"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "46-862-72-10",
+        "email": "Walentyna_Kwieciski@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30757",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=6607",
+        "2": "https://loremflickr.com/600/600/nature?lock=65741",
+        "3": "https://loremflickr.com/600/600/nature?lock=12707",
+        "4": "https://loremflickr.com/600/600/nature?lock=81351",
+        "5": "https://loremflickr.com/600/600/nature?lock=80797",
+        "6": "https://loremflickr.com/600/600/nature?lock=18081",
+        "7": "https://loremflickr.com/600/600/nature?lock=38659"
+      }
+    },
+    {
+      "id": 93439,
+      "venueId": 23,
+      "location": {
+        "postalCode": "12-521",
+        "name": "Pilzno"
+      },
+      "pricePerNightInEur": 30.63,
+      "rating": 1.14,
+      "capacity": 7,
+      "name": "bitter-corduroy",
+      "albumId": 23,
+      "description": "At qui atque autem at optio eligendi voluptates illo expedita. Hic adipisci autem at quos animi deserunt. Aliquam necessitatibus provident autem rem molestiae autem earum id tenetur. Illum perspiciatis culpa.",
+      "features": [
+        "aliquid",
+        "dolorum",
+        "voluptas",
+        "iste",
+        "quos",
+        "placeat",
+        "corporis"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "17-184-78-40",
+        "email": "Oleg_Godlewski56@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89590",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=64514",
+        "2": "https://loremflickr.com/600/600/nature?lock=97167",
+        "3": "https://loremflickr.com/600/600/nature?lock=94587",
+        "4": "https://loremflickr.com/600/600/nature?lock=6653",
+        "5": "https://loremflickr.com/600/600/nature?lock=31095",
+        "6": "https://loremflickr.com/600/600/nature?lock=68541",
+        "7": "https://loremflickr.com/600/600/nature?lock=90490"
+      }
+    },
+    {
+      "id": 40105,
+      "venueId": 24,
+      "location": {
+        "postalCode": "95-424",
+        "name": "Gniezno"
+      },
+      "pricePerNightInEur": 25.63,
+      "rating": 1.05,
+      "capacity": 6,
+      "name": "bustling-developer",
+      "albumId": 24,
+      "description": "Possimus quidem nesciunt eum assumenda nostrum maxime facere rem. Aperiam dolorum quisquam odio fugiat. Voluptas maiores veritatis.",
+      "features": [
+        "nesciunt",
+        "nisi",
+        "id",
+        "aspernatur",
+        "saepe",
+        "voluptatibus",
+        "numquam",
+        "laboriosam",
+        "id",
+        "repellat"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 15,
+      "contactDetails": {
+        "phone": "91-832-92-75",
+        "email": "Stefania_Surma38@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=99113",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=60036",
+        "2": "https://loremflickr.com/600/600/nature?lock=40380",
+        "3": "https://loremflickr.com/600/600/nature?lock=85873",
+        "4": "https://loremflickr.com/600/600/nature?lock=49400",
+        "5": "https://loremflickr.com/600/600/nature?lock=30352",
+        "6": "https://loremflickr.com/600/600/nature?lock=8127",
+        "7": "https://loremflickr.com/600/600/nature?lock=33510"
+      }
+    },
+    {
+      "id": 99397,
+      "venueId": 25,
+      "location": {
+        "postalCode": "78-484",
+        "name": "Rejowiec Fabryczny"
+      },
+      "pricePerNightInEur": 28.33,
+      "rating": 4.39,
+      "capacity": 7,
+      "name": "pink-grid",
+      "albumId": 25,
+      "description": "Saepe necessitatibus minima ullam totam atque neque neque accusantium. Facilis tenetur illum est sint. Iusto aut soluta ab et quia labore numquam placeat quis. Architecto illum eius aperiam distinctio architecto suscipit expedita.",
+      "features": [
+        "veniam",
+        "nisi",
+        "nesciunt",
+        "eligendi",
+        "maxime",
+        "libero",
+        "debitis",
+        "cupiditate",
+        "dicta",
+        "ipsam"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "42-129-69-58",
+        "email": "Maria_Frckowiak12@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=34565",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=53996",
+        "2": "https://loremflickr.com/600/600/nature?lock=60496",
+        "3": "https://loremflickr.com/600/600/nature?lock=96928",
+        "4": "https://loremflickr.com/600/600/nature?lock=11517",
+        "5": "https://loremflickr.com/600/600/nature?lock=95649",
+        "6": "https://loremflickr.com/600/600/nature?lock=30398",
+        "7": "https://loremflickr.com/600/600/nature?lock=60522"
+      }
+    },
+    {
+      "id": 3859,
+      "venueId": 26,
+      "location": {
+        "postalCode": "20-906",
+        "name": "Białogard"
+      },
+      "pricePerNightInEur": 19.3,
+      "rating": 1.78,
+      "capacity": 6,
+      "name": "violet-advertising",
+      "albumId": 26,
+      "description": "Nihil consequuntur mollitia. Dolore aperiam blanditiis aut autem. Odit esse nesciunt. Saepe laudantium dolore quos voluptate explicabo sed at. Ducimus ipsum inventore ducimus quod ab.",
+      "features": [
+        "ex",
+        "dolores",
+        "at",
+        "deserunt",
+        "eveniet",
+        "minima",
+        "at"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "95-469-47-94",
+        "email": "Modest_Raski@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=78304",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=88864",
+        "2": "https://loremflickr.com/600/600/nature?lock=48027",
+        "3": "https://loremflickr.com/600/600/nature?lock=91819",
+        "4": "https://loremflickr.com/600/600/nature?lock=89289",
+        "5": "https://loremflickr.com/600/600/nature?lock=28247",
+        "6": "https://loremflickr.com/600/600/nature?lock=98819",
+        "7": "https://loremflickr.com/600/600/nature?lock=31026"
+      }
+    },
+    {
+      "id": 42983,
+      "venueId": 27,
+      "location": {
+        "postalCode": "65-083",
+        "name": "Bojanowo"
+      },
+      "pricePerNightInEur": 18.15,
+      "rating": 1.61,
+      "capacity": 5,
+      "name": "urban-millisecond",
+      "albumId": 27,
+      "description": "Fugiat laborum minus debitis cupiditate vitae amet. A eligendi fugit ut commodi distinctio quo mollitia architecto quam. Saepe laborum eos.",
+      "features": [
+        "doloremque",
+        "eos",
+        "ratione",
+        "vero",
+        "blanditiis",
+        "voluptas"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "68-241-16-93",
+        "email": "Katarzyna94@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=73868",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=68103",
+        "2": "https://loremflickr.com/600/600/nature?lock=19770",
+        "3": "https://loremflickr.com/600/600/nature?lock=73506",
+        "4": "https://loremflickr.com/600/600/nature?lock=44416",
+        "5": "https://loremflickr.com/600/600/nature?lock=79252",
+        "6": "https://loremflickr.com/600/600/nature?lock=81676",
+        "7": "https://loremflickr.com/600/600/nature?lock=292"
+      }
+    },
+    {
+      "id": 78579,
+      "venueId": 28,
+      "location": {
+        "postalCode": "68-921",
+        "name": "Chodzież"
+      },
+      "pricePerNightInEur": 28.49,
+      "rating": 4.41,
+      "capacity": 3,
+      "name": "aged-digestion",
+      "albumId": 28,
+      "description": "Itaque quaerat nemo ab quidem et vel magnam rem molestias. Veritatis unde assumenda est quibusdam. Excepturi aperiam vitae natus totam beatae iusto laudantium sint a. Quam nam rem ducimus modi corrupti et officia inventore.",
+      "features": [
+        "iste",
+        "expedita",
+        "laborum",
+        "provident",
+        "ad",
+        "recusandae"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 3,
+      "contactDetails": {
+        "phone": "12-135-46-52",
+        "email": "Maksym66@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=7679",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=62756",
+        "2": "https://loremflickr.com/600/600/nature?lock=88840",
+        "3": "https://loremflickr.com/600/600/nature?lock=50894",
+        "4": "https://loremflickr.com/600/600/nature?lock=53335",
+        "5": "https://loremflickr.com/600/600/nature?lock=82358",
+        "6": "https://loremflickr.com/600/600/nature?lock=10260",
+        "7": "https://loremflickr.com/600/600/nature?lock=83202"
+      }
+    },
+    {
+      "id": 51996,
+      "venueId": 29,
+      "location": {
+        "postalCode": "25-702",
+        "name": "Bytów"
+      },
+      "pricePerNightInEur": 11.79,
+      "rating": 2.6,
+      "capacity": 8,
+      "name": "amusing-relief",
+      "albumId": 29,
+      "description": "Ullam voluptates at. Temporibus ducimus tempora nostrum vel accusantium rem numquam quam. Nulla aliquid dolore ullam nemo. Sint iure temporibus molestias. Itaque voluptas amet esse voluptatibus voluptas aut nobis tempore delectus. Maiores vitae tempore esse eius rerum saepe quae error.",
+      "features": [
+        "reiciendis",
+        "exercitationem",
+        "omnis",
+        "ea",
+        "optio",
+        "culpa",
+        "eligendi",
+        "velit",
+        "alias"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 3,
+      "contactDetails": {
+        "phone": "55-898-92-22",
+        "email": "Prokul_uczak@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=63380",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=78125",
+        "2": "https://loremflickr.com/600/600/nature?lock=33275",
+        "3": "https://loremflickr.com/600/600/nature?lock=8796",
+        "4": "https://loremflickr.com/600/600/nature?lock=58592",
+        "5": "https://loremflickr.com/600/600/nature?lock=44124",
+        "6": "https://loremflickr.com/600/600/nature?lock=45159",
+        "7": "https://loremflickr.com/600/600/nature?lock=8215"
+      }
+    },
+    {
+      "id": 76603,
+      "venueId": 30,
+      "location": {
+        "postalCode": "80-395",
+        "name": "Przedbórz"
+      },
+      "pricePerNightInEur": 14.93,
+      "rating": 4.28,
+      "capacity": 3,
+      "name": "medium-sentence",
+      "albumId": 30,
+      "description": "Nesciunt itaque explicabo ipsum esse vitae tenetur quod dolorem molestias. Officia sequi alias. Dolor aliquid voluptatibus quis dignissimos illum distinctio. Quos quis earum itaque esse.",
+      "features": [
+        "tempora",
+        "veritatis",
+        "hic",
+        "vel",
+        "exercitationem",
+        "alias"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "18-153-60-85",
+        "email": "Beatrycze38@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=20957",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=60478",
+        "2": "https://loremflickr.com/600/600/nature?lock=95572",
+        "3": "https://loremflickr.com/600/600/nature?lock=55146",
+        "4": "https://loremflickr.com/600/600/nature?lock=68698",
+        "5": "https://loremflickr.com/600/600/nature?lock=90190",
+        "6": "https://loremflickr.com/600/600/nature?lock=6368",
+        "7": "https://loremflickr.com/600/600/nature?lock=59529"
+      }
+    },
+    {
+      "id": 59750,
+      "venueId": 31,
+      "location": {
+        "postalCode": "76-096",
+        "name": "Gorzów Śląski"
+      },
+      "pricePerNightInEur": 31.36,
+      "rating": 4.55,
+      "capacity": 7,
+      "name": "worse-blast",
+      "albumId": 31,
+      "description": "Sequi commodi soluta doloremque sunt optio non. Similique placeat et consectetur est. Consequuntur exercitationem error officiis.",
+      "features": [
+        "unde",
+        "inventore",
+        "pariatur",
+        "pariatur",
+        "nihil",
+        "voluptatum",
+        "illo",
+        "suscipit",
+        "nulla"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "46-105-51-65",
+        "email": "Adam.Marzec@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=39354",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=1354",
+        "2": "https://loremflickr.com/600/600/nature?lock=8746",
+        "3": "https://loremflickr.com/600/600/nature?lock=70729",
+        "4": "https://loremflickr.com/600/600/nature?lock=146",
+        "5": "https://loremflickr.com/600/600/nature?lock=89126",
+        "6": "https://loremflickr.com/600/600/nature?lock=50447",
+        "7": "https://loremflickr.com/600/600/nature?lock=31898"
+      }
+    },
+    {
+      "id": 20123,
+      "venueId": 32,
+      "location": {
+        "postalCode": "41-765",
+        "name": "Warszawa"
+      },
+      "pricePerNightInEur": 34.74,
+      "rating": 4.82,
+      "capacity": 3,
+      "name": "neighboring-mimosa",
+      "albumId": 32,
+      "description": "Commodi autem asperiores iusto officia occaecati. Assumenda nemo ipsum temporibus voluptatem aut. Iusto quae dolores iure eos maxime. Dicta minima quae in numquam odio autem dicta voluptate nulla.",
+      "features": [
+        "amet",
+        "iusto",
+        "minima",
+        "itaque",
+        "aut",
+        "blanditiis",
+        "debitis"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 12,
+      "contactDetails": {
+        "phone": "18-338-29-25",
+        "email": "Wirginia42@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=41134",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=36850",
+        "2": "https://loremflickr.com/600/600/nature?lock=63298",
+        "3": "https://loremflickr.com/600/600/nature?lock=1061",
+        "4": "https://loremflickr.com/600/600/nature?lock=32556",
+        "5": "https://loremflickr.com/600/600/nature?lock=56355",
+        "6": "https://loremflickr.com/600/600/nature?lock=28978",
+        "7": "https://loremflickr.com/600/600/nature?lock=63875"
+      }
+    },
+    {
+      "id": 17104,
+      "venueId": 33,
+      "location": {
+        "postalCode": "91-714",
+        "name": "Siemiatycze"
+      },
+      "pricePerNightInEur": 18.2,
+      "rating": 1.89,
+      "capacity": 1,
+      "name": "round-geek",
+      "albumId": 33,
+      "description": "Qui nemo quaerat. Ex corrupti inventore fugit dicta culpa perferendis. Totam fugiat nostrum mollitia. Nisi nisi maxime quam magnam. Nulla aspernatur corrupti adipisci suscipit. Natus quod officia non qui harum.",
+      "features": ["unde", "eaque", "fugit", "nulla", "rem", "quo", "voluptas"],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "65-818-54-80",
+        "email": "Wanesa53@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=58241",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=44999",
+        "2": "https://loremflickr.com/600/600/nature?lock=56208",
+        "3": "https://loremflickr.com/600/600/nature?lock=28087",
+        "4": "https://loremflickr.com/600/600/nature?lock=97851",
+        "5": "https://loremflickr.com/600/600/nature?lock=22319",
+        "6": "https://loremflickr.com/600/600/nature?lock=98506",
+        "7": "https://loremflickr.com/600/600/nature?lock=17731"
+      }
+    },
+    {
+      "id": 33447,
+      "venueId": 34,
+      "location": {
+        "postalCode": "07-375",
+        "name": "Głuszyca"
+      },
+      "pricePerNightInEur": 31.04,
+      "rating": 2.7,
+      "capacity": 5,
+      "name": "silent-regulation",
+      "albumId": 34,
+      "description": "Quae vero fugit libero deserunt. Earum atque explicabo neque delectus. Debitis ducimus vitae cumque ratione.",
+      "features": [
+        "perferendis",
+        "cum",
+        "ipsum",
+        "illo",
+        "natus",
+        "recusandae",
+        "eligendi",
+        "distinctio",
+        "corporis"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "59-787-97-24",
+        "email": "Ludwika_Kowalczyk@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=6108",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=75715",
+        "2": "https://loremflickr.com/600/600/nature?lock=29857",
+        "3": "https://loremflickr.com/600/600/nature?lock=91570",
+        "4": "https://loremflickr.com/600/600/nature?lock=15911",
+        "5": "https://loremflickr.com/600/600/nature?lock=24153",
+        "6": "https://loremflickr.com/600/600/nature?lock=90039",
+        "7": "https://loremflickr.com/600/600/nature?lock=42913"
+      }
+    },
+    {
+      "id": 93508,
+      "venueId": 35,
+      "location": {
+        "postalCode": "48-633",
+        "name": "Białobrzegi"
+      },
+      "pricePerNightInEur": 12.89,
+      "rating": 1.93,
+      "capacity": 2,
+      "name": "feminine-rake",
+      "albumId": 35,
+      "description": "Corporis reiciendis eaque quia accusantium voluptate ullam. Et alias natus saepe architecto assumenda. Optio ducimus quod cum numquam mollitia maxime vero. Doloribus laudantium quia. Ex quasi voluptatum autem rem iusto esse nemo.",
+      "features": ["molestias", "doloremque", "quis", "cumque", "neque", "aut"],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "58-390-22-20",
+        "email": "Olaf79@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=18628",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=60868",
+        "2": "https://loremflickr.com/600/600/nature?lock=90679",
+        "3": "https://loremflickr.com/600/600/nature?lock=35644",
+        "4": "https://loremflickr.com/600/600/nature?lock=31284",
+        "5": "https://loremflickr.com/600/600/nature?lock=8020",
+        "6": "https://loremflickr.com/600/600/nature?lock=79372",
+        "7": "https://loremflickr.com/600/600/nature?lock=74005"
+      }
+    },
+    {
+      "id": 59286,
+      "venueId": 36,
+      "location": {
+        "postalCode": "00-506",
+        "name": "Lubawka"
+      },
+      "pricePerNightInEur": 34.03,
+      "rating": 4.65,
+      "capacity": 2,
+      "name": "steep-repayment",
+      "albumId": 36,
+      "description": "Dignissimos temporibus animi doloremque. Assumenda optio delectus accusantium tenetur quidem magni placeat amet. Recusandae quo nam. Dolore accusamus aperiam labore aspernatur ex accusantium. Quasi voluptatum necessitatibus necessitatibus cum. Tempora perferendis deserunt maiores omnis maxime doloribus amet quos.",
+      "features": [
+        "quasi",
+        "praesentium",
+        "quaerat",
+        "provident",
+        "amet",
+        "omnis",
+        "voluptates",
+        "dolorem",
+        "minus"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "42-501-48-27",
+        "email": "Janusz_Kostecki@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=61280",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=9115",
+        "2": "https://loremflickr.com/600/600/nature?lock=65979",
+        "3": "https://loremflickr.com/600/600/nature?lock=22015",
+        "4": "https://loremflickr.com/600/600/nature?lock=12578",
+        "5": "https://loremflickr.com/600/600/nature?lock=24352",
+        "6": "https://loremflickr.com/600/600/nature?lock=80791",
+        "7": "https://loremflickr.com/600/600/nature?lock=1726"
+      }
+    },
+    {
+      "id": 59128,
+      "venueId": 37,
+      "location": {
+        "postalCode": "54-703",
+        "name": "Babimost"
+      },
+      "pricePerNightInEur": 11.85,
+      "rating": 1.27,
+      "capacity": 2,
+      "name": "exhausted-ignorant",
+      "albumId": 37,
+      "description": "Assumenda alias officiis. Inventore rem eos impedit ducimus earum. Occaecati a asperiores est ratione dolorum recusandae dolorem magni rem.",
+      "features": [
+        "minima",
+        "repudiandae",
+        "maiores",
+        "cumque",
+        "deserunt",
+        "velit",
+        "reprehenderit",
+        "modi"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "16-235-59-69",
+        "email": "Roland5@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=38449",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=91402",
+        "2": "https://loremflickr.com/600/600/nature?lock=14132",
+        "3": "https://loremflickr.com/600/600/nature?lock=62869",
+        "4": "https://loremflickr.com/600/600/nature?lock=19058",
+        "5": "https://loremflickr.com/600/600/nature?lock=31171",
+        "6": "https://loremflickr.com/600/600/nature?lock=90146",
+        "7": "https://loremflickr.com/600/600/nature?lock=12882"
+      }
+    },
+    {
+      "id": 18458,
+      "venueId": 38,
+      "location": {
+        "postalCode": "08-857",
+        "name": "Nowy Sącz"
+      },
+      "pricePerNightInEur": 34.5,
+      "rating": 4.55,
+      "capacity": 3,
+      "name": "official-mallard",
+      "albumId": 38,
+      "description": "Quo quas illum aliquid voluptatum nam soluta ea. Iste deserunt iste consequatur porro repudiandae quis. Quos architecto suscipit esse eos.",
+      "features": [
+        "officia",
+        "expedita",
+        "sunt",
+        "perspiciatis",
+        "nobis",
+        "sed",
+        "modi",
+        "voluptatibus"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 12,
+      "contactDetails": {
+        "phone": "94-809-71-76",
+        "email": "Dorota.Malanka@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=36794",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=75633",
+        "2": "https://loremflickr.com/600/600/nature?lock=28668",
+        "3": "https://loremflickr.com/600/600/nature?lock=86756",
+        "4": "https://loremflickr.com/600/600/nature?lock=93674",
+        "5": "https://loremflickr.com/600/600/nature?lock=50883",
+        "6": "https://loremflickr.com/600/600/nature?lock=29382",
+        "7": "https://loremflickr.com/600/600/nature?lock=87108"
+      }
+    },
+    {
+      "id": 96977,
+      "venueId": 39,
+      "location": {
+        "postalCode": "34-548",
+        "name": "Koprzywnica"
+      },
+      "pricePerNightInEur": 18.69,
+      "rating": 2.71,
+      "capacity": 8,
+      "name": "cooked-nutrition",
+      "albumId": 39,
+      "description": "Porro natus odio officiis iure sapiente consequuntur. Id tempora quam ducimus eveniet dolores. Consequuntur quas dolore ad ex quod. Officiis fuga quas facere iusto. Excepturi ipsa minus eaque corrupti quasi quo sit distinctio. Porro optio exercitationem nihil inventore labore.",
+      "features": ["sunt", "accusamus", "nulla", "neque", "ut", "voluptate"],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "89-369-14-06",
+        "email": "Arseniusz94@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=24109",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=5816",
+        "2": "https://loremflickr.com/600/600/nature?lock=57462",
+        "3": "https://loremflickr.com/600/600/nature?lock=69027",
+        "4": "https://loremflickr.com/600/600/nature?lock=54034",
+        "5": "https://loremflickr.com/600/600/nature?lock=13662",
+        "6": "https://loremflickr.com/600/600/nature?lock=53666",
+        "7": "https://loremflickr.com/600/600/nature?lock=61825"
+      }
+    },
+    {
+      "id": 54263,
+      "venueId": 40,
+      "location": {
+        "postalCode": "50-175",
+        "name": "Zakliczyn"
+      },
+      "pricePerNightInEur": 10.59,
+      "rating": 2.66,
+      "capacity": 7,
+      "name": "back-scow",
+      "albumId": 40,
+      "description": "Sunt minima quibusdam distinctio nisi tempora aspernatur adipisci. Quisquam nostrum eligendi accusamus veniam quo dicta vero repellat consequuntur. Nam laborum quam similique porro eius nesciunt sapiente.",
+      "features": [
+        "delectus",
+        "necessitatibus",
+        "expedita",
+        "facere",
+        "sint",
+        "saepe",
+        "tempora",
+        "fuga",
+        "placeat",
+        "natus"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 7,
+      "contactDetails": {
+        "phone": "22-786-98-69",
+        "email": "Reginald.Leniak32@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=58247",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=3986",
+        "2": "https://loremflickr.com/600/600/nature?lock=73092",
+        "3": "https://loremflickr.com/600/600/nature?lock=76994",
+        "4": "https://loremflickr.com/600/600/nature?lock=85074",
+        "5": "https://loremflickr.com/600/600/nature?lock=34422",
+        "6": "https://loremflickr.com/600/600/nature?lock=73151",
+        "7": "https://loremflickr.com/600/600/nature?lock=36510"
+      }
+    },
+    {
+      "id": 65861,
+      "venueId": 41,
+      "location": {
+        "postalCode": "33-171",
+        "name": "Kielce"
+      },
+      "pricePerNightInEur": 16.5,
+      "rating": 3.99,
+      "capacity": 8,
+      "name": "evil-strait",
+      "albumId": 41,
+      "description": "Officia perferendis a consequatur minus alias ea tempore impedit laboriosam. Aliquam error inventore quibusdam eos dolorem quaerat qui aliquid. Culpa porro amet exercitationem quaerat tenetur quos deleniti. Illo repellat nam officiis adipisci in ipsa animi deleniti eius. Voluptas ad reiciendis ducimus. Impedit consequuntur similique.",
+      "features": [
+        "dolorum",
+        "vitae",
+        "necessitatibus",
+        "eos",
+        "accusamus",
+        "et",
+        "ad",
+        "laudantium",
+        "totam"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "43-754-42-77",
+        "email": "Miron53@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=87667",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=48704",
+        "2": "https://loremflickr.com/600/600/nature?lock=69365",
+        "3": "https://loremflickr.com/600/600/nature?lock=75705",
+        "4": "https://loremflickr.com/600/600/nature?lock=8332",
+        "5": "https://loremflickr.com/600/600/nature?lock=16188",
+        "6": "https://loremflickr.com/600/600/nature?lock=2692",
+        "7": "https://loremflickr.com/600/600/nature?lock=90230"
+      }
+    },
+    {
+      "id": 62344,
+      "venueId": 42,
+      "location": {
+        "postalCode": "90-672",
+        "name": "Poniec"
+      },
+      "pricePerNightInEur": 28.46,
+      "rating": 2.74,
+      "capacity": 2,
+      "name": "gracious-incidence",
+      "albumId": 42,
+      "description": "Accusamus ex tempora non quae ipsum. Voluptatibus minima aperiam. Cum reiciendis veniam accusantium expedita quos nihil molestiae. Perspiciatis quaerat voluptatibus voluptatibus corrupti harum eius exercitationem est maiores. Vel iste deserunt sed quibusdam facilis tempore blanditiis quo. Magni vitae qui mollitia eveniet fugiat quibusdam amet.",
+      "features": [
+        "possimus",
+        "est",
+        "nesciunt",
+        "exercitationem",
+        "nesciunt",
+        "eos"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "41-079-79-01",
+        "email": "Greta_Bartosik81@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=70927",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=1816",
+        "2": "https://loremflickr.com/600/600/nature?lock=595",
+        "3": "https://loremflickr.com/600/600/nature?lock=87730",
+        "4": "https://loremflickr.com/600/600/nature?lock=26859",
+        "5": "https://loremflickr.com/600/600/nature?lock=1469",
+        "6": "https://loremflickr.com/600/600/nature?lock=87882",
+        "7": "https://loremflickr.com/600/600/nature?lock=63034"
+      }
+    },
+    {
+      "id": 18091,
+      "venueId": 43,
+      "location": {
+        "postalCode": "23-382",
+        "name": "Zator"
+      },
+      "pricePerNightInEur": 17.95,
+      "rating": 2,
+      "capacity": 8,
+      "name": "boiling-explosion",
+      "albumId": 43,
+      "description": "Atque eaque voluptatum praesentium. Vel sed ducimus. Explicabo pariatur possimus expedita quod.",
+      "features": [
+        "quaerat",
+        "natus",
+        "eum",
+        "eaque",
+        "odio",
+        "ipsam",
+        "delectus",
+        "possimus",
+        "quas"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 3,
+      "contactDetails": {
+        "phone": "59-618-70-17",
+        "email": "Konrad_Leniak@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=81804",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=79318",
+        "2": "https://loremflickr.com/600/600/nature?lock=85409",
+        "3": "https://loremflickr.com/600/600/nature?lock=49114",
+        "4": "https://loremflickr.com/600/600/nature?lock=79799",
+        "5": "https://loremflickr.com/600/600/nature?lock=72940",
+        "6": "https://loremflickr.com/600/600/nature?lock=67287",
+        "7": "https://loremflickr.com/600/600/nature?lock=50143"
+      }
+    },
+    {
+      "id": 18761,
+      "venueId": 44,
+      "location": {
+        "postalCode": "82-680",
+        "name": "Kostrzyn nad Odrą"
+      },
+      "pricePerNightInEur": 17.29,
+      "rating": 2.92,
+      "capacity": 2,
+      "name": "vigorous-forever",
+      "albumId": 44,
+      "description": "Itaque pariatur iure reiciendis magni est tenetur repellat iure incidunt. Fugit laudantium nihil excepturi architecto quasi eos. Dolores amet iure harum enim ullam voluptatem vel. Iure delectus laudantium quibusdam repellat non neque quasi commodi cumque. Odio et deserunt repellendus porro vel corrupti. Necessitatibus minus magnam ut distinctio.",
+      "features": [
+        "mollitia",
+        "possimus",
+        "commodi",
+        "praesentium",
+        "odio",
+        "dignissimos",
+        "perferendis",
+        "harum",
+        "dolorem",
+        "blanditiis"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 15,
+      "contactDetails": {
+        "phone": "83-305-85-31",
+        "email": "Seweryn48@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=26856",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=19378",
+        "2": "https://loremflickr.com/600/600/nature?lock=53190",
+        "3": "https://loremflickr.com/600/600/nature?lock=39292",
+        "4": "https://loremflickr.com/600/600/nature?lock=70686",
+        "5": "https://loremflickr.com/600/600/nature?lock=91869",
+        "6": "https://loremflickr.com/600/600/nature?lock=58011",
+        "7": "https://loremflickr.com/600/600/nature?lock=55964"
+      }
+    },
+    {
+      "id": 90492,
+      "venueId": 45,
+      "location": {
+        "postalCode": "73-011",
+        "name": "Sulejówek"
+      },
+      "pricePerNightInEur": 15.27,
+      "rating": 3.38,
+      "capacity": 8,
+      "name": "deserted-month",
+      "albumId": 45,
+      "description": "Explicabo tenetur eveniet molestiae aliquid deleniti. Repudiandae sunt nihil voluptatem laboriosam quam. Commodi non expedita eaque rerum ipsam sit. Illo dolores perferendis quas illo nam excepturi esse.",
+      "features": [
+        "doloribus",
+        "molestiae",
+        "blanditiis",
+        "saepe",
+        "est",
+        "dolor",
+        "consectetur",
+        "unde"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "29-860-13-03",
+        "email": "Brajan.Wyszyski7@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=27369",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=2844",
+        "2": "https://loremflickr.com/600/600/nature?lock=7791",
+        "3": "https://loremflickr.com/600/600/nature?lock=50128",
+        "4": "https://loremflickr.com/600/600/nature?lock=1060",
+        "5": "https://loremflickr.com/600/600/nature?lock=34421",
+        "6": "https://loremflickr.com/600/600/nature?lock=92547",
+        "7": "https://loremflickr.com/600/600/nature?lock=26335"
+      }
+    },
+    {
+      "id": 98698,
+      "venueId": 46,
+      "location": {
+        "postalCode": "37-198",
+        "name": "Starogard Gdański"
+      },
+      "pricePerNightInEur": 16.01,
+      "rating": 1.43,
+      "capacity": 8,
+      "name": "sore-utensil",
+      "albumId": 46,
+      "description": "Magni ipsa minima maiores voluptates. Officia quaerat aut quis quidem numquam. Voluptate molestiae distinctio ipsum maxime impedit iusto tenetur animi vero. Dicta numquam impedit voluptates nostrum omnis. Tempora tenetur officia illum veniam aspernatur nisi aspernatur nulla.",
+      "features": [
+        "iste",
+        "animi",
+        "nisi",
+        "tempore",
+        "sunt",
+        "neque",
+        "reprehenderit",
+        "inventore",
+        "iusto",
+        "unde"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "84-012-09-32",
+        "email": "Anna.Sochacki@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=66186",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=45890",
+        "2": "https://loremflickr.com/600/600/nature?lock=4810",
+        "3": "https://loremflickr.com/600/600/nature?lock=54253",
+        "4": "https://loremflickr.com/600/600/nature?lock=51809",
+        "5": "https://loremflickr.com/600/600/nature?lock=92512",
+        "6": "https://loremflickr.com/600/600/nature?lock=83863",
+        "7": "https://loremflickr.com/600/600/nature?lock=81287"
+      }
+    },
+    {
+      "id": 1686,
+      "venueId": 47,
+      "location": {
+        "postalCode": "17-252",
+        "name": "Dolsk"
+      },
+      "pricePerNightInEur": 19.12,
+      "rating": 4.24,
+      "capacity": 6,
+      "name": "expensive-potty",
+      "albumId": 47,
+      "description": "Excepturi nisi quam odit. Omnis quae et. Accusamus necessitatibus totam ex sit vel voluptatibus inventore consequuntur iure.",
+      "features": [
+        "officiis",
+        "laboriosam",
+        "suscipit",
+        "repudiandae",
+        "nulla",
+        "pariatur",
+        "distinctio",
+        "veniam"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 8,
+      "contactDetails": {
+        "phone": "52-047-04-06",
+        "email": "Apollo.ya10@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=39152",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=76382",
+        "2": "https://loremflickr.com/600/600/nature?lock=68899",
+        "3": "https://loremflickr.com/600/600/nature?lock=22650",
+        "4": "https://loremflickr.com/600/600/nature?lock=14708",
+        "5": "https://loremflickr.com/600/600/nature?lock=41503",
+        "6": "https://loremflickr.com/600/600/nature?lock=7254",
+        "7": "https://loremflickr.com/600/600/nature?lock=87362"
+      }
+    },
+    {
+      "id": 3903,
+      "venueId": 48,
+      "location": {
+        "postalCode": "02-530",
+        "name": "Iława"
+      },
+      "pricePerNightInEur": 31.97,
+      "rating": 4.31,
+      "capacity": 6,
+      "name": "optimal-succotash",
+      "albumId": 48,
+      "description": "Harum a sunt maxime nemo iure consequuntur. Voluptates consequuntur perspiciatis asperiores recusandae unde soluta ipsum corrupti voluptatum. Ullam officiis corrupti ipsam blanditiis perferendis. Ut quas ipsa hic doloremque odio repudiandae accusantium facere iste. Animi minus aperiam hic laboriosam voluptatibus ex. Eius aliquam ab est illo nulla quia porro error quam.",
+      "features": [
+        "eum",
+        "voluptatibus",
+        "quod",
+        "praesentium",
+        "excepturi",
+        "amet",
+        "ullam",
+        "labore"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 14,
+      "contactDetails": {
+        "phone": "67-097-00-79",
+        "email": "Hipolit_Czaja@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=17228",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=46819",
+        "2": "https://loremflickr.com/600/600/nature?lock=69644",
+        "3": "https://loremflickr.com/600/600/nature?lock=92010",
+        "4": "https://loremflickr.com/600/600/nature?lock=75505",
+        "5": "https://loremflickr.com/600/600/nature?lock=43510",
+        "6": "https://loremflickr.com/600/600/nature?lock=76014",
+        "7": "https://loremflickr.com/600/600/nature?lock=8059"
+      }
+    },
+    {
+      "id": 95388,
+      "venueId": 49,
+      "location": {
+        "postalCode": "94-187",
+        "name": "Chodecz"
+      },
+      "pricePerNightInEur": 32.61,
+      "rating": 3.93,
+      "capacity": 5,
+      "name": "whispered-adrenalin",
+      "albumId": 49,
+      "description": "Nemo nam voluptates illum iste quibusdam ab accusantium a repellat. Assumenda totam occaecati laudantium ratione eum cumque voluptates. Odit provident officia ex omnis accusantium repellat dicta praesentium quam. Vel optio deleniti occaecati a ullam alias.",
+      "features": [
+        "nesciunt",
+        "blanditiis",
+        "nihil",
+        "excepturi",
+        "quisquam",
+        "occaecati",
+        "porro",
+        "consequuntur",
+        "tempora"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 14,
+      "contactDetails": {
+        "phone": "22-626-64-30",
+        "email": "Salomon.Andrzejczak@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=64662",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=51110",
+        "2": "https://loremflickr.com/600/600/nature?lock=89708",
+        "3": "https://loremflickr.com/600/600/nature?lock=53491",
+        "4": "https://loremflickr.com/600/600/nature?lock=9544",
+        "5": "https://loremflickr.com/600/600/nature?lock=67926",
+        "6": "https://loremflickr.com/600/600/nature?lock=191",
+        "7": "https://loremflickr.com/600/600/nature?lock=17007"
+      }
+    },
+    {
+      "id": 23849,
+      "venueId": 50,
+      "location": {
+        "postalCode": "70-707",
+        "name": "Skierniewice"
+      },
+      "pricePerNightInEur": 13.35,
+      "rating": 3.38,
+      "capacity": 7,
+      "name": "clear-sole",
+      "albumId": 50,
+      "description": "Tenetur fuga in est eligendi excepturi. Vel iusto provident placeat vitae laborum. Eum error dolor delectus fuga autem quam. Ipsum ut impedit quisquam.",
+      "features": [
+        "molestias",
+        "corrupti",
+        "suscipit",
+        "consectetur",
+        "libero",
+        "laudantium"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "44-344-54-32",
+        "email": "Pankracy15@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=95009",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=66765",
+        "2": "https://loremflickr.com/600/600/nature?lock=24878",
+        "3": "https://loremflickr.com/600/600/nature?lock=31788",
+        "4": "https://loremflickr.com/600/600/nature?lock=81804",
+        "5": "https://loremflickr.com/600/600/nature?lock=1585",
+        "6": "https://loremflickr.com/600/600/nature?lock=47106",
+        "7": "https://loremflickr.com/600/600/nature?lock=66067"
+      }
+    },
+    {
+      "id": 87150,
+      "venueId": 51,
+      "location": {
+        "postalCode": "37-766",
+        "name": "Pogorzela"
+      },
+      "pricePerNightInEur": 13.75,
+      "rating": 2.74,
+      "capacity": 1,
+      "name": "every-sturgeon",
+      "albumId": 51,
+      "description": "Pariatur tempora fugiat placeat quis voluptatem blanditiis nisi harum distinctio. Explicabo aliquam eum. Voluptatibus eaque doloremque dicta repellendus natus sequi. Quod ut quam provident dolores optio sit numquam corrupti voluptate. Commodi magni sapiente dolore eveniet culpa. Ea ipsum modi aspernatur.",
+      "features": ["est", "error", "deserunt", "aperiam", "rem", "est", "sint"],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "86-676-75-11",
+        "email": "aneta71@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89677",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=72460",
+        "2": "https://loremflickr.com/600/600/nature?lock=50094",
+        "3": "https://loremflickr.com/600/600/nature?lock=5254",
+        "4": "https://loremflickr.com/600/600/nature?lock=43232",
+        "5": "https://loremflickr.com/600/600/nature?lock=72984",
+        "6": "https://loremflickr.com/600/600/nature?lock=94211",
+        "7": "https://loremflickr.com/600/600/nature?lock=98803"
+      }
+    },
+    {
+      "id": 68323,
+      "venueId": 52,
+      "location": {
+        "postalCode": "61-916",
+        "name": "Kamieńsk"
+      },
+      "pricePerNightInEur": 31.38,
+      "rating": 3.76,
+      "capacity": 7,
+      "name": "growling-spray",
+      "albumId": 52,
+      "description": "Aliquid adipisci quis natus enim fugit expedita. Tempora sunt architecto commodi reprehenderit expedita beatae suscipit fuga ut. Aperiam quae praesentium in earum quasi quasi.",
+      "features": [
+        "illo",
+        "exercitationem",
+        "illum",
+        "dicta",
+        "repudiandae",
+        "provident",
+        "ipsum"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 1,
+      "contactDetails": {
+        "phone": "58-703-41-91",
+        "email": "Laurenty.Majka19@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=59869",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=85094",
+        "2": "https://loremflickr.com/600/600/nature?lock=8239",
+        "3": "https://loremflickr.com/600/600/nature?lock=41940",
+        "4": "https://loremflickr.com/600/600/nature?lock=99960",
+        "5": "https://loremflickr.com/600/600/nature?lock=15276",
+        "6": "https://loremflickr.com/600/600/nature?lock=32251",
+        "7": "https://loremflickr.com/600/600/nature?lock=9997"
+      }
+    },
+    {
+      "id": 19174,
+      "venueId": 53,
+      "location": {
+        "postalCode": "84-201",
+        "name": "Susz"
+      },
+      "pricePerNightInEur": 34.73,
+      "rating": 4.28,
+      "capacity": 6,
+      "name": "pointless-garment",
+      "albumId": 53,
+      "description": "Consequuntur perspiciatis quod ab deserunt officia debitis maxime. Earum cupiditate odio inventore aliquam sint id nesciunt magnam. Inventore delectus odio expedita optio fugiat sint error nostrum. Laudantium sequi nobis ipsa repellendus harum optio. Voluptas magnam aperiam eaque. Et nesciunt at nesciunt assumenda incidunt officiis.",
+      "features": [
+        "animi",
+        "quae",
+        "dolor",
+        "iusto",
+        "earum",
+        "necessitatibus",
+        "accusamus",
+        "accusantium",
+        "incidunt"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "14-145-66-16",
+        "email": "Anatol29@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=33786",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=65626",
+        "2": "https://loremflickr.com/600/600/nature?lock=65635",
+        "3": "https://loremflickr.com/600/600/nature?lock=8908",
+        "4": "https://loremflickr.com/600/600/nature?lock=55037",
+        "5": "https://loremflickr.com/600/600/nature?lock=20911",
+        "6": "https://loremflickr.com/600/600/nature?lock=43768",
+        "7": "https://loremflickr.com/600/600/nature?lock=3066"
+      }
+    },
+    {
+      "id": 7402,
+      "venueId": 54,
+      "location": {
+        "postalCode": "45-431",
+        "name": "Brodnica"
+      },
+      "pricePerNightInEur": 34.84,
+      "rating": 4.53,
+      "capacity": 1,
+      "name": "dual-invader",
+      "albumId": 54,
+      "description": "Excepturi dolorum inventore eveniet harum consectetur quia. Ex ipsam esse labore adipisci totam numquam. Explicabo odit ea at eaque harum unde eligendi. Architecto doloribus quod sint repudiandae saepe consectetur fugiat ratione harum. Earum cum dolor.",
+      "features": [
+        "rerum",
+        "commodi",
+        "inventore",
+        "velit",
+        "consequuntur",
+        "animi"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "17-317-21-85",
+        "email": "Grzegorz34@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89334",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=72629",
+        "2": "https://loremflickr.com/600/600/nature?lock=95611",
+        "3": "https://loremflickr.com/600/600/nature?lock=62740",
+        "4": "https://loremflickr.com/600/600/nature?lock=4685",
+        "5": "https://loremflickr.com/600/600/nature?lock=83535",
+        "6": "https://loremflickr.com/600/600/nature?lock=56629",
+        "7": "https://loremflickr.com/600/600/nature?lock=73970"
+      }
+    },
+    {
+      "id": 82850,
+      "venueId": 55,
+      "location": {
+        "postalCode": "19-304",
+        "name": "Szczyrk"
+      },
+      "pricePerNightInEur": 28.33,
+      "rating": 4.4,
+      "capacity": 2,
+      "name": "lovable-virus",
+      "albumId": 55,
+      "description": "Recusandae est quas illum maxime. Soluta culpa necessitatibus doloremque architecto nemo atque dignissimos nesciunt ad. Id delectus quod mollitia totam vero sequi quisquam.",
+      "features": [
+        "qui",
+        "repellat",
+        "eos",
+        "modi",
+        "quod",
+        "doloribus",
+        "quidem",
+        "repellat"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "74-644-00-76",
+        "email": "Edgar43@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=92290",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=88658",
+        "2": "https://loremflickr.com/600/600/nature?lock=67590",
+        "3": "https://loremflickr.com/600/600/nature?lock=38901",
+        "4": "https://loremflickr.com/600/600/nature?lock=65032",
+        "5": "https://loremflickr.com/600/600/nature?lock=69892",
+        "6": "https://loremflickr.com/600/600/nature?lock=41079",
+        "7": "https://loremflickr.com/600/600/nature?lock=98160"
+      }
+    },
+    {
+      "id": 66073,
+      "venueId": 56,
+      "location": {
+        "postalCode": "60-320",
+        "name": "Nowy Dwór Mazowiecki"
+      },
+      "pricePerNightInEur": 26.38,
+      "rating": 1.94,
+      "capacity": 4,
+      "name": "grand-corridor",
+      "albumId": 56,
+      "description": "Quae in dolor nam sint provident. Sed saepe consectetur incidunt deserunt aperiam blanditiis animi magni. Dignissimos autem molestias perferendis nesciunt.",
+      "features": [
+        "reprehenderit",
+        "odio",
+        "officia",
+        "eos",
+        "rerum",
+        "consequuntur",
+        "eum"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "89-132-05-10",
+        "email": "Mojesz75@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=41131",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=27892",
+        "2": "https://loremflickr.com/600/600/nature?lock=94808",
+        "3": "https://loremflickr.com/600/600/nature?lock=55364",
+        "4": "https://loremflickr.com/600/600/nature?lock=66487",
+        "5": "https://loremflickr.com/600/600/nature?lock=48477",
+        "6": "https://loremflickr.com/600/600/nature?lock=8758",
+        "7": "https://loremflickr.com/600/600/nature?lock=244"
+      }
+    },
+    {
+      "id": 8653,
+      "venueId": 57,
+      "location": {
+        "postalCode": "17-501",
+        "name": "Imielin"
+      },
+      "pricePerNightInEur": 20.18,
+      "rating": 1.48,
+      "capacity": 1,
+      "name": "advanced-alcohol",
+      "albumId": 57,
+      "description": "Dicta sapiente molestias enim. Veritatis excepturi hic eveniet modi. Similique quam beatae quo.",
+      "features": [
+        "occaecati",
+        "sequi",
+        "ipsa",
+        "consequuntur",
+        "eligendi",
+        "exercitationem",
+        "impedit"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "17-555-60-06",
+        "email": "Marianna.Piwowarczyk31@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=77404",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=28269",
+        "2": "https://loremflickr.com/600/600/nature?lock=13183",
+        "3": "https://loremflickr.com/600/600/nature?lock=2794",
+        "4": "https://loremflickr.com/600/600/nature?lock=86969",
+        "5": "https://loremflickr.com/600/600/nature?lock=82899",
+        "6": "https://loremflickr.com/600/600/nature?lock=81778",
+        "7": "https://loremflickr.com/600/600/nature?lock=24092"
+      }
+    },
+    {
+      "id": 46721,
+      "venueId": 58,
+      "location": {
+        "postalCode": "66-862",
+        "name": "Starachowice"
+      },
+      "pricePerNightInEur": 21.53,
+      "rating": 2.75,
+      "capacity": 5,
+      "name": "orderly-destiny",
+      "albumId": 58,
+      "description": "Doloribus occaecati repudiandae sit aut. Pariatur ullam repellendus nam reiciendis dolore sed ullam distinctio corporis. Rerum officiis excepturi corporis quaerat. Optio deleniti voluptate veniam ut.",
+      "features": [
+        "pariatur",
+        "recusandae",
+        "fuga",
+        "id",
+        "impedit",
+        "nulla",
+        "tempore",
+        "accusantium"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "84-957-15-09",
+        "email": "Greta_Adamski@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=41039",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=77830",
+        "2": "https://loremflickr.com/600/600/nature?lock=87974",
+        "3": "https://loremflickr.com/600/600/nature?lock=25823",
+        "4": "https://loremflickr.com/600/600/nature?lock=50869",
+        "5": "https://loremflickr.com/600/600/nature?lock=55703",
+        "6": "https://loremflickr.com/600/600/nature?lock=80640",
+        "7": "https://loremflickr.com/600/600/nature?lock=67209"
+      }
+    },
+    {
+      "id": 7130,
+      "venueId": 59,
+      "location": {
+        "postalCode": "08-606",
+        "name": "Starogard Gdański"
+      },
+      "pricePerNightInEur": 23.2,
+      "rating": 3.24,
+      "capacity": 3,
+      "name": "impish-omelet",
+      "albumId": 59,
+      "description": "Labore cupiditate dolores amet voluptatibus hic reprehenderit nihil amet. Nemo veniam consectetur inventore recusandae tempore rerum eius nesciunt dolore. Assumenda repudiandae ab ea qui ab possimus ratione repudiandae. Atque fugiat suscipit vitae deserunt at sed aperiam. Amet necessitatibus nobis cupiditate asperiores. Quo id officiis maiores iste.",
+      "features": [
+        "inventore",
+        "velit",
+        "alias",
+        "quisquam",
+        "distinctio",
+        "quae",
+        "consectetur",
+        "blanditiis",
+        "accusantium",
+        "corrupti"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 5,
+      "contactDetails": {
+        "phone": "24-656-39-14",
+        "email": "Nazariusz.Stachura47@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=10113",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=273",
+        "2": "https://loremflickr.com/600/600/nature?lock=13227",
+        "3": "https://loremflickr.com/600/600/nature?lock=67417",
+        "4": "https://loremflickr.com/600/600/nature?lock=34409",
+        "5": "https://loremflickr.com/600/600/nature?lock=90900",
+        "6": "https://loremflickr.com/600/600/nature?lock=73571",
+        "7": "https://loremflickr.com/600/600/nature?lock=47457"
+      }
+    },
+    {
+      "id": 26127,
+      "venueId": 60,
+      "location": {
+        "postalCode": "26-980",
+        "name": "Barwice"
+      },
+      "pricePerNightInEur": 17.81,
+      "rating": 4.09,
+      "capacity": 3,
+      "name": "intentional-cursor",
+      "albumId": 60,
+      "description": "Consectetur exercitationem ipsam. Placeat perspiciatis nostrum laudantium quos officiis quis vitae delectus. Molestiae laudantium ducimus illo sed fugit quia distinctio voluptatibus. Itaque sint veritatis. Nemo sed sapiente ab. Ipsum non perferendis explicabo odio debitis impedit odio.",
+      "features": [
+        "fugit",
+        "maiores",
+        "ipsa",
+        "ipsam",
+        "reprehenderit",
+        "quaerat"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 8,
+      "contactDetails": {
+        "phone": "94-897-12-78",
+        "email": "Leonard.Kozio@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=31143",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=3287",
+        "2": "https://loremflickr.com/600/600/nature?lock=87930",
+        "3": "https://loremflickr.com/600/600/nature?lock=75030",
+        "4": "https://loremflickr.com/600/600/nature?lock=70061",
+        "5": "https://loremflickr.com/600/600/nature?lock=2903",
+        "6": "https://loremflickr.com/600/600/nature?lock=18488",
+        "7": "https://loremflickr.com/600/600/nature?lock=60900"
+      }
+    },
+    {
+      "id": 84409,
+      "venueId": 61,
+      "location": {
+        "postalCode": "21-712",
+        "name": "Brańsk"
+      },
+      "pricePerNightInEur": 13.3,
+      "rating": 4.18,
+      "capacity": 5,
+      "name": "victorious-junk",
+      "albumId": 61,
+      "description": "Optio doloribus porro hic illum quaerat. Quod placeat fuga omnis explicabo deserunt saepe mollitia delectus nobis. Aliquid iusto temporibus fugiat.",
+      "features": [
+        "et",
+        "sapiente",
+        "doloremque",
+        "expedita",
+        "quas",
+        "possimus",
+        "nisi",
+        "qui"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "76-793-00-59",
+        "email": "Edmund9@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=13305",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=20672",
+        "2": "https://loremflickr.com/600/600/nature?lock=2164",
+        "3": "https://loremflickr.com/600/600/nature?lock=20842",
+        "4": "https://loremflickr.com/600/600/nature?lock=78850",
+        "5": "https://loremflickr.com/600/600/nature?lock=67308",
+        "6": "https://loremflickr.com/600/600/nature?lock=19470",
+        "7": "https://loremflickr.com/600/600/nature?lock=19498"
+      }
+    },
+    {
+      "id": 75395,
+      "venueId": 62,
+      "location": {
+        "postalCode": "79-077",
+        "name": "Bartoszyce"
+      },
+      "pricePerNightInEur": 32.17,
+      "rating": 2.19,
+      "capacity": 8,
+      "name": "itchy-position",
+      "albumId": 62,
+      "description": "Et mollitia sunt aperiam earum. Quo laboriosam quae vel. Dolore nisi autem ad aut occaecati. Reiciendis minus quis vel ducimus veniam dignissimos ad dolor. Quaerat excepturi delectus maxime.",
+      "features": [
+        "voluptatem",
+        "optio",
+        "in",
+        "hic",
+        "magni",
+        "facere",
+        "blanditiis",
+        "ipsa"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 12,
+      "contactDetails": {
+        "phone": "54-874-80-32",
+        "email": "Pawe95@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=52596",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=87174",
+        "2": "https://loremflickr.com/600/600/nature?lock=63820",
+        "3": "https://loremflickr.com/600/600/nature?lock=40682",
+        "4": "https://loremflickr.com/600/600/nature?lock=98792",
+        "5": "https://loremflickr.com/600/600/nature?lock=94724",
+        "6": "https://loremflickr.com/600/600/nature?lock=96768",
+        "7": "https://loremflickr.com/600/600/nature?lock=46743"
+      }
+    },
+    {
+      "id": 96853,
+      "venueId": 63,
+      "location": {
+        "postalCode": "84-687",
+        "name": "Łaszczów"
+      },
+      "pricePerNightInEur": 34.02,
+      "rating": 4.65,
+      "capacity": 8,
+      "name": "friendly-tatami",
+      "albumId": 63,
+      "description": "Repellat occaecati itaque. Doloremque fuga unde voluptates. Et porro nobis. Neque aut ipsam error ducimus harum maxime.",
+      "features": [
+        "expedita",
+        "tempore",
+        "earum",
+        "ut",
+        "architecto",
+        "dolorem",
+        "quam",
+        "sequi",
+        "incidunt",
+        "voluptas"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 5,
+      "contactDetails": {
+        "phone": "16-293-30-54",
+        "email": "Albert.Witek@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=38258",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=97873",
+        "2": "https://loremflickr.com/600/600/nature?lock=22257",
+        "3": "https://loremflickr.com/600/600/nature?lock=90776",
+        "4": "https://loremflickr.com/600/600/nature?lock=24230",
+        "5": "https://loremflickr.com/600/600/nature?lock=51577",
+        "6": "https://loremflickr.com/600/600/nature?lock=35943",
+        "7": "https://loremflickr.com/600/600/nature?lock=11039"
+      }
+    },
+    {
+      "id": 38678,
+      "venueId": 64,
+      "location": {
+        "postalCode": "77-172",
+        "name": "Garwolin"
+      },
+      "pricePerNightInEur": 30.96,
+      "rating": 2.94,
+      "capacity": 6,
+      "name": "immense-gang",
+      "albumId": 64,
+      "description": "Cumque deleniti similique. Saepe eligendi cumque rerum corporis sapiente deserunt. Iste quia est commodi distinctio deleniti fugiat exercitationem optio. Magni omnis porro minus soluta quod magnam perferendis veniam rerum. Reiciendis corrupti at sit.",
+      "features": ["quos", "voluptatum", "odit", "dolorem", "eaque", "aliquam"],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "83-916-67-86",
+        "email": "Anatol_Krupa@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=57191",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=76792",
+        "2": "https://loremflickr.com/600/600/nature?lock=84533",
+        "3": "https://loremflickr.com/600/600/nature?lock=22365",
+        "4": "https://loremflickr.com/600/600/nature?lock=24334",
+        "5": "https://loremflickr.com/600/600/nature?lock=41034",
+        "6": "https://loremflickr.com/600/600/nature?lock=76596",
+        "7": "https://loremflickr.com/600/600/nature?lock=13621"
+      }
+    },
+    {
+      "id": 96021,
+      "venueId": 65,
+      "location": {
+        "postalCode": "49-682",
+        "name": "Myszyniec"
+      },
+      "pricePerNightInEur": 12.71,
+      "rating": 1.59,
+      "capacity": 4,
+      "name": "worthy-broiler",
+      "albumId": 65,
+      "description": "Aliquid libero molestiae eligendi. Magni optio expedita molestias nemo aut inventore deleniti perspiciatis. Expedita modi numquam quibusdam sit quos. Dolores assumenda quam commodi officia minima similique aliquam.",
+      "features": [
+        "neque",
+        "dolorum",
+        "temporibus",
+        "blanditiis",
+        "voluptatum",
+        "quae",
+        "ipsam",
+        "hic"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "54-966-74-02",
+        "email": "Terencjusz_Bartczak@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=16940",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=13454",
+        "2": "https://loremflickr.com/600/600/nature?lock=89047",
+        "3": "https://loremflickr.com/600/600/nature?lock=92179",
+        "4": "https://loremflickr.com/600/600/nature?lock=72594",
+        "5": "https://loremflickr.com/600/600/nature?lock=65971",
+        "6": "https://loremflickr.com/600/600/nature?lock=68748",
+        "7": "https://loremflickr.com/600/600/nature?lock=31092"
+      }
+    },
+    {
+      "id": 81383,
+      "venueId": 66,
+      "location": {
+        "postalCode": "68-974",
+        "name": "Ogrodzieniec"
+      },
+      "pricePerNightInEur": 20.26,
+      "rating": 4.86,
+      "capacity": 4,
+      "name": "haunting-chess",
+      "albumId": 66,
+      "description": "Et temporibus eum libero veritatis. Occaecati sequi sit dolorem eaque provident corrupti aperiam pariatur totam. Ex quod iste libero. Veritatis natus consequatur temporibus ducimus at nesciunt. Vero voluptatem exercitationem adipisci veniam omnis velit quis.",
+      "features": ["quo", "dolores", "ad", "dolore", "veritatis", "eaque"],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "91-073-99-96",
+        "email": "Herbert_Bk@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=19800",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=96354",
+        "2": "https://loremflickr.com/600/600/nature?lock=58476",
+        "3": "https://loremflickr.com/600/600/nature?lock=145",
+        "4": "https://loremflickr.com/600/600/nature?lock=83370",
+        "5": "https://loremflickr.com/600/600/nature?lock=47878",
+        "6": "https://loremflickr.com/600/600/nature?lock=68972",
+        "7": "https://loremflickr.com/600/600/nature?lock=12784"
+      }
+    },
+    {
+      "id": 94968,
+      "venueId": 67,
+      "location": {
+        "postalCode": "00-219",
+        "name": "Rajgród"
+      },
+      "pricePerNightInEur": 25.57,
+      "rating": 1.54,
+      "capacity": 5,
+      "name": "attractive-opium",
+      "albumId": 67,
+      "description": "Aliquid officia aliquid eius dolorum aspernatur. Ipsum id et animi. Nesciunt optio sit quam. Molestiae corrupti mollitia.",
+      "features": [
+        "enim",
+        "asperiores",
+        "adipisci",
+        "quo",
+        "enim",
+        "ab",
+        "recusandae",
+        "placeat",
+        "aspernatur"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "29-767-18-77",
+        "email": "Ksawery_Czajka55@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=45961",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=23180",
+        "2": "https://loremflickr.com/600/600/nature?lock=61320",
+        "3": "https://loremflickr.com/600/600/nature?lock=48",
+        "4": "https://loremflickr.com/600/600/nature?lock=19524",
+        "5": "https://loremflickr.com/600/600/nature?lock=88277",
+        "6": "https://loremflickr.com/600/600/nature?lock=1116",
+        "7": "https://loremflickr.com/600/600/nature?lock=43075"
+      }
+    },
+    {
+      "id": 93956,
+      "venueId": 68,
+      "location": {
+        "postalCode": "15-433",
+        "name": "Radłów"
+      },
+      "pricePerNightInEur": 34.53,
+      "rating": 2.07,
+      "capacity": 7,
+      "name": "unripe-feast",
+      "albumId": 68,
+      "description": "Mollitia assumenda atque laudantium aliquam ipsa doloribus maiores cupiditate. Quibusdam laboriosam quam consequatur. Consectetur illo reiciendis. Et corporis dolorem alias. Culpa eveniet nostrum pariatur.",
+      "features": [
+        "quos",
+        "recusandae",
+        "nulla",
+        "nihil",
+        "sed",
+        "aut",
+        "quae",
+        "perspiciatis",
+        "dignissimos"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 3,
+      "contactDetails": {
+        "phone": "17-366-00-46",
+        "email": "Pelagia.Wawrzyniak@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=50881",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=10785",
+        "2": "https://loremflickr.com/600/600/nature?lock=17953",
+        "3": "https://loremflickr.com/600/600/nature?lock=9018",
+        "4": "https://loremflickr.com/600/600/nature?lock=24324",
+        "5": "https://loremflickr.com/600/600/nature?lock=69732",
+        "6": "https://loremflickr.com/600/600/nature?lock=80602",
+        "7": "https://loremflickr.com/600/600/nature?lock=1293"
+      }
+    },
+    {
+      "id": 48327,
+      "venueId": 69,
+      "location": {
+        "postalCode": "28-909",
+        "name": "Hel"
+      },
+      "pricePerNightInEur": 25.06,
+      "rating": 2.78,
+      "capacity": 7,
+      "name": "greedy-riser",
+      "albumId": 69,
+      "description": "Nam iusto in itaque qui ratione illum deleniti. Dolorum repudiandae nihil esse suscipit. Sit vitae culpa cum.",
+      "features": [
+        "a",
+        "et",
+        "quo",
+        "doloremque",
+        "quibusdam",
+        "adipisci",
+        "ullam",
+        "laudantium"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "34-222-69-08",
+        "email": "Teresa.Lipiski@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=72016",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=69571",
+        "2": "https://loremflickr.com/600/600/nature?lock=81839",
+        "3": "https://loremflickr.com/600/600/nature?lock=21543",
+        "4": "https://loremflickr.com/600/600/nature?lock=25296",
+        "5": "https://loremflickr.com/600/600/nature?lock=57593",
+        "6": "https://loremflickr.com/600/600/nature?lock=20336",
+        "7": "https://loremflickr.com/600/600/nature?lock=80463"
+      }
+    },
+    {
+      "id": 51042,
+      "venueId": 70,
+      "location": {
+        "postalCode": "60-671",
+        "name": "Czechowice-Dziedzice"
+      },
+      "pricePerNightInEur": 31.67,
+      "rating": 3.2,
+      "capacity": 6,
+      "name": "wicked-society",
+      "albumId": 70,
+      "description": "Eum ab maxime. Quisquam laboriosam commodi sint repudiandae magni. Assumenda aut odit eius debitis ab mollitia rem quibusdam.",
+      "features": [
+        "odit",
+        "quasi",
+        "laboriosam",
+        "suscipit",
+        "possimus",
+        "veniam",
+        "illo",
+        "numquam",
+        "veniam",
+        "labore"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "43-978-75-70",
+        "email": "Kira30@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=64792",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=66017",
+        "2": "https://loremflickr.com/600/600/nature?lock=72835",
+        "3": "https://loremflickr.com/600/600/nature?lock=94350",
+        "4": "https://loremflickr.com/600/600/nature?lock=55279",
+        "5": "https://loremflickr.com/600/600/nature?lock=56274",
+        "6": "https://loremflickr.com/600/600/nature?lock=3342",
+        "7": "https://loremflickr.com/600/600/nature?lock=12563"
+      }
+    },
+    {
+      "id": 3623,
+      "venueId": 71,
+      "location": {
+        "postalCode": "03-404",
+        "name": "Bobolice"
+      },
+      "pricePerNightInEur": 26.36,
+      "rating": 2.69,
+      "capacity": 1,
+      "name": "waterlogged-predecessor",
+      "albumId": 71,
+      "description": "Cupiditate vel in pariatur ducimus vero incidunt. Reiciendis praesentium quod ullam modi delectus sapiente quo. Enim similique placeat deleniti dolorum optio placeat voluptas.",
+      "features": [
+        "repudiandae",
+        "neque",
+        "recusandae",
+        "et",
+        "dolor",
+        "possimus",
+        "incidunt"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 5,
+      "contactDetails": {
+        "phone": "67-882-47-74",
+        "email": "Polikarp_Strzelecki@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=82192",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=42242",
+        "2": "https://loremflickr.com/600/600/nature?lock=43831",
+        "3": "https://loremflickr.com/600/600/nature?lock=13455",
+        "4": "https://loremflickr.com/600/600/nature?lock=38229",
+        "5": "https://loremflickr.com/600/600/nature?lock=16435",
+        "6": "https://loremflickr.com/600/600/nature?lock=70927",
+        "7": "https://loremflickr.com/600/600/nature?lock=29593"
+      }
+    },
+    {
+      "id": 80641,
+      "venueId": 72,
+      "location": {
+        "postalCode": "91-683",
+        "name": "Kowary"
+      },
+      "pricePerNightInEur": 33.1,
+      "rating": 4.65,
+      "capacity": 8,
+      "name": "ideal-mantel",
+      "albumId": 72,
+      "description": "Quos quo quae nam reiciendis quam nostrum. Nam neque non dolore. Tenetur vitae corrupti vel officia aperiam dolorum aliquid. Voluptate reprehenderit ab voluptas reiciendis qui. Nam deserunt sunt. Corrupti expedita fugit libero vitae accusantium.",
+      "features": [
+        "accusantium",
+        "facere",
+        "porro",
+        "est",
+        "ea",
+        "quod",
+        "neque",
+        "modi",
+        "reprehenderit",
+        "maiores"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 15,
+      "contactDetails": {
+        "phone": "61-076-63-79",
+        "email": "Aleksander.Malanka92@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30704",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=22444",
+        "2": "https://loremflickr.com/600/600/nature?lock=14242",
+        "3": "https://loremflickr.com/600/600/nature?lock=77950",
+        "4": "https://loremflickr.com/600/600/nature?lock=57546",
+        "5": "https://loremflickr.com/600/600/nature?lock=15426",
+        "6": "https://loremflickr.com/600/600/nature?lock=51516",
+        "7": "https://loremflickr.com/600/600/nature?lock=50467"
+      }
+    },
+    {
+      "id": 84328,
+      "venueId": 73,
+      "location": {
+        "postalCode": "17-232",
+        "name": "Woźniki"
+      },
+      "pricePerNightInEur": 30.94,
+      "rating": 1.95,
+      "capacity": 7,
+      "name": "tangible-eyrie",
+      "albumId": 73,
+      "description": "Quasi numquam ipsa. Laboriosam autem vitae quos veniam occaecati dolores ad sequi ullam. Officiis sit aut officiis libero tempora. Ipsam eaque esse libero autem voluptatibus.",
+      "features": [
+        "consequatur",
+        "sequi",
+        "sint",
+        "fugiat",
+        "neque",
+        "dignissimos",
+        "animi",
+        "illum",
+        "dignissimos",
+        "nam"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "61-928-73-18",
+        "email": "Klaudia76@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30251",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=66083",
+        "2": "https://loremflickr.com/600/600/nature?lock=80738",
+        "3": "https://loremflickr.com/600/600/nature?lock=37680",
+        "4": "https://loremflickr.com/600/600/nature?lock=19605",
+        "5": "https://loremflickr.com/600/600/nature?lock=38159",
+        "6": "https://loremflickr.com/600/600/nature?lock=19248",
+        "7": "https://loremflickr.com/600/600/nature?lock=56654"
+      }
+    },
+    {
+      "id": 12389,
+      "venueId": 74,
+      "location": {
+        "postalCode": "19-447",
+        "name": "Nekla"
+      },
+      "pricePerNightInEur": 23.37,
+      "rating": 2.41,
+      "capacity": 6,
+      "name": "agreeable-privacy",
+      "albumId": 74,
+      "description": "Alias modi veniam cumque id excepturi sint qui voluptatibus illum. Adipisci enim a itaque maxime voluptate ipsa ipsum. Tempora provident beatae nobis placeat aliquid amet aliquid animi debitis. Laborum aperiam voluptas fuga error quasi consequatur molestias asperiores ea. Sint libero ex ipsum nesciunt.",
+      "features": [
+        "ducimus",
+        "quidem",
+        "et",
+        "voluptates",
+        "quo",
+        "commodi",
+        "tempore",
+        "ut"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 12,
+      "contactDetails": {
+        "phone": "33-443-49-81",
+        "email": "Lea16@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=38447",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=82153",
+        "2": "https://loremflickr.com/600/600/nature?lock=23454",
+        "3": "https://loremflickr.com/600/600/nature?lock=56168",
+        "4": "https://loremflickr.com/600/600/nature?lock=92842",
+        "5": "https://loremflickr.com/600/600/nature?lock=83496",
+        "6": "https://loremflickr.com/600/600/nature?lock=44619",
+        "7": "https://loremflickr.com/600/600/nature?lock=15545"
+      }
+    },
+    {
+      "id": 1674,
+      "venueId": 75,
+      "location": {
+        "postalCode": "85-668",
+        "name": "Szprotawa"
+      },
+      "pricePerNightInEur": 11.28,
+      "rating": 1.48,
+      "capacity": 7,
+      "name": "square-traveler",
+      "albumId": 75,
+      "description": "Sapiente dolores tempora. Quae animi soluta amet. Quam laudantium amet illo in. Aliquam nobis tempore facere illo modi. Asperiores inventore quae ab corporis laudantium esse omnis. Excepturi fugit sint cupiditate et sunt.",
+      "features": [
+        "quod",
+        "adipisci",
+        "ipsum",
+        "eveniet",
+        "similique",
+        "sequi",
+        "inventore",
+        "laborum",
+        "a",
+        "odio"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "58-676-34-72",
+        "email": "Matylda_Adamiec1@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=42033",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=65968",
+        "2": "https://loremflickr.com/600/600/nature?lock=55863",
+        "3": "https://loremflickr.com/600/600/nature?lock=45955",
+        "4": "https://loremflickr.com/600/600/nature?lock=3423",
+        "5": "https://loremflickr.com/600/600/nature?lock=71255",
+        "6": "https://loremflickr.com/600/600/nature?lock=25436",
+        "7": "https://loremflickr.com/600/600/nature?lock=83069"
+      }
+    },
+    {
+      "id": 48892,
+      "venueId": 76,
+      "location": {
+        "postalCode": "46-086",
+        "name": "Jastarnia"
+      },
+      "pricePerNightInEur": 33.6,
+      "rating": 4.3,
+      "capacity": 1,
+      "name": "ironclad-streetcar",
+      "albumId": 76,
+      "description": "Eveniet iure at accusantium occaecati optio. Molestiae excepturi consectetur ratione iste voluptatem praesentium quae necessitatibus. Quaerat labore repudiandae tempore blanditiis eveniet eaque molestiae consequuntur.",
+      "features": [
+        "enim",
+        "at",
+        "quas",
+        "nostrum",
+        "harum",
+        "sed",
+        "blanditiis",
+        "voluptas"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 15,
+      "contactDetails": {
+        "phone": "41-577-33-98",
+        "email": "Rebeka.Kruk54@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=50082",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=67379",
+        "2": "https://loremflickr.com/600/600/nature?lock=92516",
+        "3": "https://loremflickr.com/600/600/nature?lock=86077",
+        "4": "https://loremflickr.com/600/600/nature?lock=65388",
+        "5": "https://loremflickr.com/600/600/nature?lock=74476",
+        "6": "https://loremflickr.com/600/600/nature?lock=25695",
+        "7": "https://loremflickr.com/600/600/nature?lock=35146"
+      }
+    },
+    {
+      "id": 41036,
+      "venueId": 77,
+      "location": {
+        "postalCode": "92-558",
+        "name": "Suraż"
+      },
+      "pricePerNightInEur": 23.75,
+      "rating": 4.49,
+      "capacity": 2,
+      "name": "bitter-salesman",
+      "albumId": 77,
+      "description": "Animi natus consequuntur suscipit atque quod officia deserunt. Fugiat neque eaque. Quia hic doloremque numquam nihil cumque eaque alias.",
+      "features": [
+        "unde",
+        "sed",
+        "adipisci",
+        "quos",
+        "odit",
+        "ducimus",
+        "exercitationem",
+        "molestiae",
+        "vero",
+        "sed"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "85-735-40-86",
+        "email": "Cyra_Karczewski75@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=11553",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=62621",
+        "2": "https://loremflickr.com/600/600/nature?lock=8900",
+        "3": "https://loremflickr.com/600/600/nature?lock=9038",
+        "4": "https://loremflickr.com/600/600/nature?lock=35677",
+        "5": "https://loremflickr.com/600/600/nature?lock=96558",
+        "6": "https://loremflickr.com/600/600/nature?lock=6585",
+        "7": "https://loremflickr.com/600/600/nature?lock=52625"
+      }
+    },
+    {
+      "id": 41042,
+      "venueId": 78,
+      "location": {
+        "postalCode": "63-511",
+        "name": "Polkowice"
+      },
+      "pricePerNightInEur": 18.76,
+      "rating": 4.75,
+      "capacity": 4,
+      "name": "satisfied-locomotive",
+      "albumId": 78,
+      "description": "Tempora iste non asperiores. Quaerat consectetur eaque omnis magni quam. Ipsum saepe autem voluptates excepturi eveniet.",
+      "features": ["nobis", "rem", "eligendi", "non", "quasi", "quo"],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 1,
+      "contactDetails": {
+        "phone": "55-185-25-74",
+        "email": "Arystarch_Przyby@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=48824",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=5611",
+        "2": "https://loremflickr.com/600/600/nature?lock=91390",
+        "3": "https://loremflickr.com/600/600/nature?lock=27040",
+        "4": "https://loremflickr.com/600/600/nature?lock=80931",
+        "5": "https://loremflickr.com/600/600/nature?lock=77765",
+        "6": "https://loremflickr.com/600/600/nature?lock=89464",
+        "7": "https://loremflickr.com/600/600/nature?lock=63787"
+      }
+    },
+    {
+      "id": 32651,
+      "venueId": 79,
+      "location": {
+        "postalCode": "80-666",
+        "name": "Józefów"
+      },
+      "pricePerNightInEur": 21.46,
+      "rating": 1.19,
+      "capacity": 8,
+      "name": "worldly-zen",
+      "albumId": 79,
+      "description": "Occaecati tempore corporis quo enim quisquam ex aliquid sequi. Expedita incidunt officia. Rerum delectus nemo. Ratione repellendus provident sit ullam maiores necessitatibus sit pariatur autem.",
+      "features": [
+        "nihil",
+        "id",
+        "facere",
+        "perferendis",
+        "quas",
+        "soluta",
+        "illum",
+        "officiis",
+        "tempore"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 13,
+      "contactDetails": {
+        "phone": "13-412-31-39",
+        "email": "Cecylia81@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=89756",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=2962",
+        "2": "https://loremflickr.com/600/600/nature?lock=75784",
+        "3": "https://loremflickr.com/600/600/nature?lock=77005",
+        "4": "https://loremflickr.com/600/600/nature?lock=11443",
+        "5": "https://loremflickr.com/600/600/nature?lock=14329",
+        "6": "https://loremflickr.com/600/600/nature?lock=26573",
+        "7": "https://loremflickr.com/600/600/nature?lock=93947"
+      }
+    },
+    {
+      "id": 88874,
+      "venueId": 80,
+      "location": {
+        "postalCode": "20-503",
+        "name": "Alwernia"
+      },
+      "pricePerNightInEur": 11.29,
+      "rating": 4.33,
+      "capacity": 8,
+      "name": "sparse-seashore",
+      "albumId": 80,
+      "description": "Culpa expedita eos pariatur odit eaque libero totam incidunt. Minima facilis eaque facilis aut blanditiis ipsum dolor nobis. Quasi similique omnis nemo unde nisi.",
+      "features": [
+        "perferendis",
+        "harum",
+        "officia",
+        "officiis",
+        "eligendi",
+        "iste"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 13,
+      "contactDetails": {
+        "phone": "42-877-15-60",
+        "email": "Makary.Gajda10@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=81496",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=30996",
+        "2": "https://loremflickr.com/600/600/nature?lock=1280",
+        "3": "https://loremflickr.com/600/600/nature?lock=12326",
+        "4": "https://loremflickr.com/600/600/nature?lock=33540",
+        "5": "https://loremflickr.com/600/600/nature?lock=25328",
+        "6": "https://loremflickr.com/600/600/nature?lock=10014",
+        "7": "https://loremflickr.com/600/600/nature?lock=81825"
+      }
+    },
+    {
+      "id": 25059,
+      "venueId": 81,
+      "location": {
+        "postalCode": "42-048",
+        "name": "Drobin"
+      },
+      "pricePerNightInEur": 32.84,
+      "rating": 2.74,
+      "capacity": 1,
+      "name": "rundown-evidence",
+      "albumId": 81,
+      "description": "Non nemo ab. Impedit ipsum numquam error. Veniam tempora libero amet provident. Eius molestias ducimus voluptatem voluptate commodi hic.",
+      "features": [
+        "ab",
+        "facere",
+        "cumque",
+        "minima",
+        "facilis",
+        "sint",
+        "corporis",
+        "assumenda",
+        "unde"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 14,
+      "contactDetails": {
+        "phone": "58-532-07-80",
+        "email": "Ofelia24@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=23",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=35539",
+        "2": "https://loremflickr.com/600/600/nature?lock=51834",
+        "3": "https://loremflickr.com/600/600/nature?lock=65100",
+        "4": "https://loremflickr.com/600/600/nature?lock=69639",
+        "5": "https://loremflickr.com/600/600/nature?lock=66401",
+        "6": "https://loremflickr.com/600/600/nature?lock=71327",
+        "7": "https://loremflickr.com/600/600/nature?lock=61529"
+      }
+    },
+    {
+      "id": 83915,
+      "venueId": 82,
+      "location": {
+        "postalCode": "84-948",
+        "name": "Buk"
+      },
+      "pricePerNightInEur": 22.15,
+      "rating": 2.18,
+      "capacity": 5,
+      "name": "lavish-abolishment",
+      "albumId": 82,
+      "description": "Nisi quasi nostrum dolor totam esse. Officia ipsum illo harum laborum quisquam veniam recusandae. Ipsa repellendus ullam sunt eligendi quo.",
+      "features": [
+        "est",
+        "delectus",
+        "aperiam",
+        "ad",
+        "facilis",
+        "voluptatem",
+        "veniam",
+        "facilis",
+        "numquam"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "16-085-53-16",
+        "email": "Dorota52@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=24127",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=92100",
+        "2": "https://loremflickr.com/600/600/nature?lock=37250",
+        "3": "https://loremflickr.com/600/600/nature?lock=78641",
+        "4": "https://loremflickr.com/600/600/nature?lock=59493",
+        "5": "https://loremflickr.com/600/600/nature?lock=98469",
+        "6": "https://loremflickr.com/600/600/nature?lock=19384",
+        "7": "https://loremflickr.com/600/600/nature?lock=38784"
+      }
+    },
+    {
+      "id": 63882,
+      "venueId": 83,
+      "location": {
+        "postalCode": "62-815",
+        "name": "Kleszczele"
+      },
+      "pricePerNightInEur": 33.32,
+      "rating": 3.45,
+      "capacity": 2,
+      "name": "fond-in-joke",
+      "albumId": 83,
+      "description": "Ipsam reprehenderit numquam aspernatur consectetur id qui. Assumenda minus aperiam magnam. Officia sapiente officia. Architecto suscipit ad fugiat ex.",
+      "features": [
+        "quos",
+        "labore",
+        "quas",
+        "aspernatur",
+        "fuga",
+        "doloribus",
+        "occaecati",
+        "maxime"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 15,
+      "contactDetails": {
+        "phone": "55-025-02-16",
+        "email": "Alan.Janiak70@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=37187",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=86633",
+        "2": "https://loremflickr.com/600/600/nature?lock=8599",
+        "3": "https://loremflickr.com/600/600/nature?lock=56407",
+        "4": "https://loremflickr.com/600/600/nature?lock=78305",
+        "5": "https://loremflickr.com/600/600/nature?lock=50799",
+        "6": "https://loremflickr.com/600/600/nature?lock=9622",
+        "7": "https://loremflickr.com/600/600/nature?lock=1088"
+      }
+    },
+    {
+      "id": 39010,
+      "venueId": 84,
+      "location": {
+        "postalCode": "12-815",
+        "name": "Głowno"
+      },
+      "pricePerNightInEur": 21.51,
+      "rating": 1.68,
+      "capacity": 1,
+      "name": "gray-reason",
+      "albumId": 84,
+      "description": "Provident fugit quod laudantium maxime. Autem quam et impedit deleniti quia maxime consectetur quos. Quam voluptates quo reprehenderit praesentium quisquam consequatur culpa. Quam nulla suscipit harum modi optio similique accusamus. Optio aspernatur soluta cumque itaque quae ipsum fuga esse similique.",
+      "features": [
+        "temporibus",
+        "nostrum",
+        "perspiciatis",
+        "temporibus",
+        "repudiandae",
+        "voluptatem",
+        "iusto",
+        "culpa"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "74-682-10-33",
+        "email": "Paula71@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=1887",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=58813",
+        "2": "https://loremflickr.com/600/600/nature?lock=68328",
+        "3": "https://loremflickr.com/600/600/nature?lock=7999",
+        "4": "https://loremflickr.com/600/600/nature?lock=94409",
+        "5": "https://loremflickr.com/600/600/nature?lock=91716",
+        "6": "https://loremflickr.com/600/600/nature?lock=47283",
+        "7": "https://loremflickr.com/600/600/nature?lock=79955"
+      }
+    },
+    {
+      "id": 59899,
+      "venueId": 85,
+      "location": {
+        "postalCode": "57-739",
+        "name": "Inowrocław"
+      },
+      "pricePerNightInEur": 19.01,
+      "rating": 3.47,
+      "capacity": 8,
+      "name": "dirty-fun",
+      "albumId": 85,
+      "description": "Quis quo culpa labore. Illo consequuntur qui facere quidem. Doloremque praesentium dignissimos expedita nostrum sed similique pariatur. Odio eaque natus ut amet accusantium porro temporibus dolor. Laudantium aliquid vel animi incidunt. Magnam eaque nobis dicta ipsam eveniet.",
+      "features": [
+        "sunt",
+        "nulla",
+        "quaerat",
+        "laborum",
+        "fuga",
+        "laborum",
+        "possimus"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 10,
+      "contactDetails": {
+        "phone": "82-167-67-02",
+        "email": "Arkadiusz.Rudzki36@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=73854",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=68062",
+        "2": "https://loremflickr.com/600/600/nature?lock=4043",
+        "3": "https://loremflickr.com/600/600/nature?lock=72861",
+        "4": "https://loremflickr.com/600/600/nature?lock=50342",
+        "5": "https://loremflickr.com/600/600/nature?lock=21836",
+        "6": "https://loremflickr.com/600/600/nature?lock=64616",
+        "7": "https://loremflickr.com/600/600/nature?lock=32454"
+      }
+    },
+    {
+      "id": 88653,
+      "venueId": 86,
+      "location": {
+        "postalCode": "70-323",
+        "name": "Rejowiec Fabryczny"
+      },
+      "pricePerNightInEur": 24.38,
+      "rating": 1.09,
+      "capacity": 7,
+      "name": "fluid-alfalfa",
+      "albumId": 86,
+      "description": "Voluptatibus eos totam sint a nesciunt occaecati aliquid laborum ex. Voluptate minima eum cumque provident a provident iste itaque. Sit fuga laudantium harum eos unde.",
+      "features": [
+        "ea",
+        "adipisci",
+        "nisi",
+        "possimus",
+        "inventore",
+        "minus",
+        "fugit",
+        "ab"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 1
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 6,
+      "contactDetails": {
+        "phone": "67-166-36-35",
+        "email": "Reginald49@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=19538",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=22343",
+        "2": "https://loremflickr.com/600/600/nature?lock=87281",
+        "3": "https://loremflickr.com/600/600/nature?lock=86703",
+        "4": "https://loremflickr.com/600/600/nature?lock=37886",
+        "5": "https://loremflickr.com/600/600/nature?lock=35524",
+        "6": "https://loremflickr.com/600/600/nature?lock=46277",
+        "7": "https://loremflickr.com/600/600/nature?lock=51429"
+      }
+    },
+    {
+      "id": 70678,
+      "venueId": 87,
+      "location": {
+        "postalCode": "87-008",
+        "name": "Grójec"
+      },
+      "pricePerNightInEur": 34.29,
+      "rating": 3.6,
+      "capacity": 6,
+      "name": "secondary-engineering",
+      "albumId": 87,
+      "description": "Nobis veritatis soluta. Ut incidunt voluptatum quaerat nobis commodi fuga architecto. Exercitationem provident nihil dicta consequuntur dolores minus id quaerat.",
+      "features": [
+        "adipisci",
+        "dicta",
+        "sapiente",
+        "temporibus",
+        "ipsa",
+        "assumenda",
+        "quidem",
+        "porro",
+        "tenetur",
+        "maiores"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "87-832-65-37",
+        "email": "Joanna_Brzeziski60@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=97746",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=59453",
+        "2": "https://loremflickr.com/600/600/nature?lock=18146",
+        "3": "https://loremflickr.com/600/600/nature?lock=66191",
+        "4": "https://loremflickr.com/600/600/nature?lock=80822",
+        "5": "https://loremflickr.com/600/600/nature?lock=98903",
+        "6": "https://loremflickr.com/600/600/nature?lock=56083",
+        "7": "https://loremflickr.com/600/600/nature?lock=50363"
+      }
+    },
+    {
+      "id": 19155,
+      "venueId": 88,
+      "location": {
+        "postalCode": "51-672",
+        "name": "Łaziska Górne"
+      },
+      "pricePerNightInEur": 12.65,
+      "rating": 1.26,
+      "capacity": 7,
+      "name": "internal-beauty",
+      "albumId": 88,
+      "description": "Fugiat impedit iure voluptates. Accusamus distinctio delectus ducimus quasi eius. Omnis quas vitae quidem blanditiis fugiat praesentium sapiente dolor exercitationem. Laudantium aliquam corrupti enim temporibus. Consectetur architecto numquam molestiae accusantium fugiat iusto. Suscipit fugiat laboriosam occaecati nisi voluptatibus maxime.",
+      "features": [
+        "magni",
+        "vitae",
+        "tempore",
+        "quidem",
+        "cumque",
+        "expedita",
+        "eaque",
+        "illo"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "84-499-51-21",
+        "email": "Wilfryd_Adamowicz46@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=31562",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=4338",
+        "2": "https://loremflickr.com/600/600/nature?lock=53694",
+        "3": "https://loremflickr.com/600/600/nature?lock=17733",
+        "4": "https://loremflickr.com/600/600/nature?lock=80926",
+        "5": "https://loremflickr.com/600/600/nature?lock=7818",
+        "6": "https://loremflickr.com/600/600/nature?lock=68933",
+        "7": "https://loremflickr.com/600/600/nature?lock=55738"
+      }
+    },
+    {
+      "id": 88529,
+      "venueId": 89,
+      "location": {
+        "postalCode": "42-392",
+        "name": "Grójec"
+      },
+      "pricePerNightInEur": 28.42,
+      "rating": 2.07,
+      "capacity": 7,
+      "name": "squeaky-insolence",
+      "albumId": 89,
+      "description": "Harum eos eos velit cumque. Aliquam asperiores dignissimos. Fugiat quos soluta atque corporis. Nostrum saepe quisquam asperiores. Laudantium neque libero excepturi quidem repellendus laudantium sit sunt fugiat. Iste laborum vel illo asperiores ut ipsa.",
+      "features": [
+        "facilis",
+        "aliquid",
+        "et",
+        "quae",
+        "non",
+        "assumenda",
+        "in",
+        "totam",
+        "voluptatum",
+        "delectus"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 12,
+      "contactDetails": {
+        "phone": "54-375-24-74",
+        "email": "Kornel2@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=68160",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=15693",
+        "2": "https://loremflickr.com/600/600/nature?lock=68407",
+        "3": "https://loremflickr.com/600/600/nature?lock=43011",
+        "4": "https://loremflickr.com/600/600/nature?lock=20702",
+        "5": "https://loremflickr.com/600/600/nature?lock=260",
+        "6": "https://loremflickr.com/600/600/nature?lock=60239",
+        "7": "https://loremflickr.com/600/600/nature?lock=69244"
+      }
+    },
+    {
+      "id": 27523,
+      "venueId": 90,
+      "location": {
+        "postalCode": "64-994",
+        "name": "Trzebnica"
+      },
+      "pricePerNightInEur": 27.93,
+      "rating": 4.1,
+      "capacity": 6,
+      "name": "scholarly-hypochondria",
+      "albumId": 90,
+      "description": "Quas assumenda mollitia sequi deserunt eos magni repellendus dignissimos. Et voluptatum quia necessitatibus aliquid illum iste cupiditate. Maxime voluptates est odio minima veniam facere laboriosam recusandae perspiciatis. Voluptate placeat error. Praesentium blanditiis vel a voluptatem ipsam molestiae.",
+      "features": [
+        "ratione",
+        "eius",
+        "a",
+        "sint",
+        "porro",
+        "iste",
+        "occaecati"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 5,
+      "contactDetails": {
+        "phone": "86-693-92-96",
+        "email": "Magnus16@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=37534",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=42054",
+        "2": "https://loremflickr.com/600/600/nature?lock=41964",
+        "3": "https://loremflickr.com/600/600/nature?lock=83442",
+        "4": "https://loremflickr.com/600/600/nature?lock=15611",
+        "5": "https://loremflickr.com/600/600/nature?lock=53166",
+        "6": "https://loremflickr.com/600/600/nature?lock=46753",
+        "7": "https://loremflickr.com/600/600/nature?lock=27732"
+      }
+    },
+    {
+      "id": 16656,
+      "venueId": 91,
+      "location": {
+        "postalCode": "04-550",
+        "name": "Wałbrzych"
+      },
+      "pricePerNightInEur": 27.95,
+      "rating": 3.36,
+      "capacity": 8,
+      "name": "white-octave",
+      "albumId": 91,
+      "description": "Harum exercitationem nihil at. Nihil recusandae aspernatur. Quia sed mollitia quas beatae. Velit unde voluptas vel eligendi. Facilis porro adipisci.",
+      "features": [
+        "ut",
+        "vero",
+        "ipsam",
+        "deserunt",
+        "assumenda",
+        "voluptas",
+        "dolore",
+        "quis"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 1,
+      "contactDetails": {
+        "phone": "22-168-92-99",
+        "email": "Maksym.Ossowski@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=98371",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=1363",
+        "2": "https://loremflickr.com/600/600/nature?lock=99446",
+        "3": "https://loremflickr.com/600/600/nature?lock=15223",
+        "4": "https://loremflickr.com/600/600/nature?lock=74855",
+        "5": "https://loremflickr.com/600/600/nature?lock=6474",
+        "6": "https://loremflickr.com/600/600/nature?lock=8121",
+        "7": "https://loremflickr.com/600/600/nature?lock=96654"
+      }
+    },
+    {
+      "id": 45670,
+      "venueId": 92,
+      "location": {
+        "postalCode": "61-056",
+        "name": "Jastarnia"
+      },
+      "pricePerNightInEur": 30.19,
+      "rating": 1.07,
+      "capacity": 4,
+      "name": "truthful-gunpowder",
+      "albumId": 92,
+      "description": "Aut ipsa ea suscipit nam. Expedita ipsa sit voluptates tenetur impedit reprehenderit placeat perferendis ad. Sed voluptates in assumenda cupiditate animi odio quo id.",
+      "features": [
+        "deserunt",
+        "similique",
+        "at",
+        "impedit",
+        "at",
+        "aut",
+        "recusandae",
+        "explicabo"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 5,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 13,
+      "contactDetails": {
+        "phone": "25-220-00-07",
+        "email": "Leon78@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=43658",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=41896",
+        "2": "https://loremflickr.com/600/600/nature?lock=37758",
+        "3": "https://loremflickr.com/600/600/nature?lock=75481",
+        "4": "https://loremflickr.com/600/600/nature?lock=45750",
+        "5": "https://loremflickr.com/600/600/nature?lock=62523",
+        "6": "https://loremflickr.com/600/600/nature?lock=15819",
+        "7": "https://loremflickr.com/600/600/nature?lock=53710"
+      }
+    },
+    {
+      "id": 96347,
+      "venueId": 93,
+      "location": {
+        "postalCode": "34-999",
+        "name": "Świecie"
+      },
+      "pricePerNightInEur": 13.69,
+      "rating": 2.47,
+      "capacity": 6,
+      "name": "distorted-twist",
+      "albumId": 93,
+      "description": "Rerum labore asperiores sapiente tenetur dolores laudantium labore commodi autem. Nobis architecto cum sapiente esse dolor veritatis. Ipsa rem facilis deleniti. Dolorum in ad. Accusamus quos tempore similique saepe odit recusandae veritatis. Dolore nihil ullam culpa esse nobis iure.",
+      "features": ["autem", "sed", "aliquam", "itaque", "placeat", "adipisci"],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 5
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 14,
+      "contactDetails": {
+        "phone": "12-828-17-15",
+        "email": "Kalistrat.Bielawski34@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=82764",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=59817",
+        "2": "https://loremflickr.com/600/600/nature?lock=67086",
+        "3": "https://loremflickr.com/600/600/nature?lock=18214",
+        "4": "https://loremflickr.com/600/600/nature?lock=500",
+        "5": "https://loremflickr.com/600/600/nature?lock=73056",
+        "6": "https://loremflickr.com/600/600/nature?lock=68760",
+        "7": "https://loremflickr.com/600/600/nature?lock=27039"
+      }
+    },
+    {
+      "id": 96541,
+      "venueId": 94,
+      "location": {
+        "postalCode": "34-727",
+        "name": "Dziwnów"
+      },
+      "pricePerNightInEur": 31.33,
+      "rating": 1.51,
+      "capacity": 8,
+      "name": "creepy-impairment",
+      "albumId": 94,
+      "description": "Illo minus consequuntur veniam. Illo optio enim ab recusandae nihil culpa deleniti molestiae. Ad sint ea porro voluptatibus ex autem nostrum hic quo. Aspernatur eveniet libero alias dolores id sapiente cumque.",
+      "features": [
+        "nihil",
+        "eaque",
+        "doloremque",
+        "animi",
+        "doloremque",
+        "odit",
+        "quia",
+        "quaerat",
+        "unde"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 1,
+      "contactDetails": {
+        "phone": "83-271-89-25",
+        "email": "Krystian.Cielak@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=56779",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=25997",
+        "2": "https://loremflickr.com/600/600/nature?lock=37214",
+        "3": "https://loremflickr.com/600/600/nature?lock=97084",
+        "4": "https://loremflickr.com/600/600/nature?lock=33348",
+        "5": "https://loremflickr.com/600/600/nature?lock=1621",
+        "6": "https://loremflickr.com/600/600/nature?lock=29393",
+        "7": "https://loremflickr.com/600/600/nature?lock=86079"
+      }
+    },
+    {
+      "id": 24976,
+      "venueId": 95,
+      "location": {
+        "postalCode": "28-771",
+        "name": "Sobótka"
+      },
+      "pricePerNightInEur": 16.58,
+      "rating": 4.43,
+      "capacity": 7,
+      "name": "pastel-whey",
+      "albumId": 95,
+      "description": "Ut repudiandae eaque minus exercitationem. Sunt quas dolore exercitationem. Natus assumenda in blanditiis nihil voluptatibus sint nesciunt necessitatibus quas. Quisquam iste optio maxime tenetur aperiam nam pariatur atque odio.",
+      "features": ["molestias", "dicta", "vel", "nobis", "neque", "molestias"],
+      "sleepingDetails": {
+        "maxCapacity": 7,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 11,
+      "contactDetails": {
+        "phone": "54-730-87-37",
+        "email": "Kwintyn_Stefaski@gmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=78384",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=59280",
+        "2": "https://loremflickr.com/600/600/nature?lock=5397",
+        "3": "https://loremflickr.com/600/600/nature?lock=85973",
+        "4": "https://loremflickr.com/600/600/nature?lock=35098",
+        "5": "https://loremflickr.com/600/600/nature?lock=88586",
+        "6": "https://loremflickr.com/600/600/nature?lock=69461",
+        "7": "https://loremflickr.com/600/600/nature?lock=55934"
+      }
+    },
+    {
+      "id": 17253,
+      "venueId": 96,
+      "location": {
+        "postalCode": "39-895",
+        "name": "Jawor"
+      },
+      "pricePerNightInEur": 20.91,
+      "rating": 4.52,
+      "capacity": 8,
+      "name": "cruel-transit",
+      "albumId": 96,
+      "description": "Quaerat odio neque voluptates sapiente ea repellat. Voluptatem fuga occaecati molestias molestias perspiciatis mollitia. Quisquam cumque nemo sed animi fugiat. Esse incidunt libero. Beatae voluptates dolore est dolores nihil deserunt inventore ex quod.",
+      "features": ["nisi", "perferendis", "soluta", "officiis", "eaque", "vel"],
+      "sleepingDetails": {
+        "maxCapacity": 8,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 2,
+      "contactDetails": {
+        "phone": "84-154-05-58",
+        "email": "Miron8@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=30325",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=43525",
+        "2": "https://loremflickr.com/600/600/nature?lock=8651",
+        "3": "https://loremflickr.com/600/600/nature?lock=30248",
+        "4": "https://loremflickr.com/600/600/nature?lock=7036",
+        "5": "https://loremflickr.com/600/600/nature?lock=85265",
+        "6": "https://loremflickr.com/600/600/nature?lock=1386",
+        "7": "https://loremflickr.com/600/600/nature?lock=41773"
+      }
+    },
+    {
+      "id": 8204,
+      "venueId": 97,
+      "location": {
+        "postalCode": "31-017",
+        "name": "Nieszawa"
+      },
+      "pricePerNightInEur": 14.09,
+      "rating": 3.07,
+      "capacity": 3,
+      "name": "deficient-bullet",
+      "albumId": 97,
+      "description": "Libero itaque molestiae architecto harum. Magni blanditiis libero. Ex porro unde quaerat earum a eos alias temporibus esse. Hic iure aspernatur cumque cumque. Exercitationem libero excepturi facilis iusto.",
+      "features": [
+        "at",
+        "laboriosam",
+        "vero",
+        "facere",
+        "nesciunt",
+        "molestiae",
+        "sed",
+        "earum"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 3,
+        "amountOfBeds": 2
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 15,
+      "contactDetails": {
+        "phone": "13-241-90-55",
+        "email": "Eustracjusz_Bielak@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=53403",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=29250",
+        "2": "https://loremflickr.com/600/600/nature?lock=31376",
+        "3": "https://loremflickr.com/600/600/nature?lock=3633",
+        "4": "https://loremflickr.com/600/600/nature?lock=99499",
+        "5": "https://loremflickr.com/600/600/nature?lock=16747",
+        "6": "https://loremflickr.com/600/600/nature?lock=70243",
+        "7": "https://loremflickr.com/600/600/nature?lock=46815"
+      }
+    },
+    {
+      "id": 61525,
+      "venueId": 98,
+      "location": {
+        "postalCode": "75-056",
+        "name": "Rabka-Zdrój"
+      },
+      "pricePerNightInEur": 10.48,
+      "rating": 2.3,
+      "capacity": 7,
+      "name": "ironclad-swamp",
+      "albumId": 98,
+      "description": "Debitis assumenda non fugiat alias vitae aperiam quas quaerat. Reiciendis fugiat quos quis harum ipsum corrupti odit. Ipsa dolore aliquid modi consectetur quis at. Sint nobis necessitatibus libero inventore et aperiam quo voluptatem. Dolorum praesentium eos. Commodi eius sint est veritatis consectetur.",
+      "features": [
+        "illum",
+        "soluta",
+        "repellat",
+        "doloremque",
+        "repellendus",
+        "nulla",
+        "esse",
+        "eveniet"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 6
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 14,
+      "contactDetails": {
+        "phone": "29-913-31-59",
+        "email": "Franciszka_Majewski@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=2892",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=46746",
+        "2": "https://loremflickr.com/600/600/nature?lock=6406",
+        "3": "https://loremflickr.com/600/600/nature?lock=8864",
+        "4": "https://loremflickr.com/600/600/nature?lock=14514",
+        "5": "https://loremflickr.com/600/600/nature?lock=21359",
+        "6": "https://loremflickr.com/600/600/nature?lock=46546",
+        "7": "https://loremflickr.com/600/600/nature?lock=3072"
+      }
+    },
+    {
+      "id": 80992,
+      "venueId": 99,
+      "location": {
+        "postalCode": "12-874",
+        "name": "Wleń"
+      },
+      "pricePerNightInEur": 26.83,
+      "rating": 1.88,
+      "capacity": 1,
+      "name": "stunning-corduroy",
+      "albumId": 99,
+      "description": "Reprehenderit quo dolor minima commodi officia eum adipisci. Rem dolore eligendi. Magni velit ad sequi sunt repellendus. Nulla et quis quod excepturi.",
+      "features": [
+        "odio",
+        "iste",
+        "aliquam",
+        "quos",
+        "illum",
+        "fuga",
+        "quibusdam",
+        "eligendi"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 4,
+        "amountOfBeds": 4
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 4,
+      "contactDetails": {
+        "phone": "65-036-93-29",
+        "email": "Orestes79@yahoo.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=46341",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=20051",
+        "2": "https://loremflickr.com/600/600/nature?lock=88125",
+        "3": "https://loremflickr.com/600/600/nature?lock=6969",
+        "4": "https://loremflickr.com/600/600/nature?lock=55583",
+        "5": "https://loremflickr.com/600/600/nature?lock=96910",
+        "6": "https://loremflickr.com/600/600/nature?lock=73974",
+        "7": "https://loremflickr.com/600/600/nature?lock=50960"
+      }
+    },
+    {
+      "id": 13974,
+      "venueId": 100,
+      "location": {
+        "postalCode": "09-568",
+        "name": "Zawadzkie"
+      },
+      "pricePerNightInEur": 28.93,
+      "rating": 2.25,
+      "capacity": 4,
+      "name": "french-spouse",
+      "albumId": 100,
+      "description": "Culpa natus mollitia libero a necessitatibus. Expedita ipsum aut dignissimos consequuntur accusamus beatae assumenda. Reiciendis tenetur quidem rerum placeat vitae ex laboriosam. Laudantium est quo sapiente maxime veniam. Laboriosam quibusdam harum alias officiis molestias.",
+      "features": [
+        "esse",
+        "provident",
+        "voluptas",
+        "doloribus",
+        "nemo",
+        "non",
+        "earum"
+      ],
+      "sleepingDetails": {
+        "maxCapacity": 6,
+        "amountOfBeds": 3
+      },
+      "checkInHour": "4pm",
+      "checkOutHour": "10am",
+      "distanceFromCityCenterInKM": 9,
+      "contactDetails": {
+        "phone": "52-546-52-92",
+        "email": "Andrzej93@hotmail.com"
+      },
+      "landingImgUrl": "https://loremflickr.com/600/600/city?lock=67589",
+      "venueDescriptionImgUrls": {
+        "1": "https://loremflickr.com/600/600/nature?lock=39442",
+        "2": "https://loremflickr.com/600/600/nature?lock=95258",
+        "3": "https://loremflickr.com/600/600/nature?lock=20951",
+        "4": "https://loremflickr.com/600/600/nature?lock=70380",
+        "5": "https://loremflickr.com/600/600/nature?lock=75805",
+        "6": "https://loremflickr.com/600/600/nature?lock=32010",
+        "7": "https://loremflickr.com/600/600/nature?lock=78195"
+      }
+    }
+  ]
+}
