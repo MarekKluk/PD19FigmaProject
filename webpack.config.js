@@ -8,7 +8,7 @@ module.exports = {
     filename: '[name].[chunkhash].bundle.js',
   },
   mode: 'development',
-  plugins: [new HtmlWebpackPlugin({ template: './build/index.html' })],
+  plugins: [new HtmlWebpackPlugin({ template: './src/index.html' })],
   module: {
     rules: [
       {

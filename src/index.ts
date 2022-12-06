@@ -1,18 +1,28 @@
-import '../build/styles.css';
+import '../src/styles.css';
 import { faker } from '@faker-js/faker/locale/pl';
 
 let venueArray: VenueType[] = [];
 let venueDetailsArray: VenueDetailsType[] = [];
 let usedIdsArray: number[] = [];
-let generatedLocalizations: object[] = [];
+let generatedLocalizations: {label: string}[] = [];
 let addressesCache: string[] = [];
+
+type Location = {
+  postalCode: string | number;
+  name: string;
+}
+type SleepingDetails = {
+  maxCapacity: number;
+  amountOfBeds: number;
+}
+type ContactDetails = {
+  phone: string;
+  email: string;
+}
 
 type VenueType = {
   id: number;
-  location: {
-    postalCode: string | number;
-    name: string;
-  };
+  location: Location;
   pricePerNightInEur: number;
   rating: number;
   capacity: number;
@@ -24,10 +34,7 @@ type VenueType = {
 type VenueDetailsType = {
   id: number;
   venueId: number;
-  location: {
-    postalCode: string | number;
-    name: string;
-  };
+  location: Location;
   pricePerNightInEur: number;
   rating: number;
   capacity: number;
@@ -35,31 +42,17 @@ type VenueDetailsType = {
   albumId: number;
   description: string;
   features: string[];
-  sleepingDetails: {
-    maxCapacity: number;
-    amountOfBeds: number;
-  };
+  sleepingDetails: SleepingDetails;
   checkInHour: string;
   checkOutHour: string;
   distanceFromCityCenterInKM: number;
-  contactDetails: {
-    phone: number | string;
-    email: string;
-  };
+  contactDetails: ContactDetails;
   landingImgUrl: string;
-  venueDescriptionImgUrls: {
-    1: string;
-    2: string;
-    3: string;
-    4: string;
-    5: string;
-    6: string;
-    7: string;
-  };
+  venueDescriptionImgUrls: string[];
 };
 
 function generateUniqueId(): number {
-  let randomNumber: number = faker.datatype.number({ min: 1000, max: 99999 });
+  let randomNumber = faker.datatype.number({ min: 1000, max: 99999 });
   while (usedIdsArray.includes(randomNumber)) {
     randomNumber = faker.datatype.number({ min: 1000, max: 99999 });
   }
@@ -74,6 +67,14 @@ function generateRandomFeatures(): string[] {
     featuresArray.push(faker.lorem.word());
   }
   return featuresArray;
+}
+
+function generateVenueDescriptionImgsUrls(amountOfUrls: number): string[] {
+  const imgsUrlArray = []
+  for(let i=0; i<=amountOfUrls; i++) {
+    imgsUrlArray.push(faker.image.nature(600, 600, true))
+  }
+  return imgsUrlArray
 }
 
 function generateFakeVenuesData(numberOfVenuesToGenerate: number): void {
@@ -121,15 +122,7 @@ function generateFakeVenuesData(numberOfVenuesToGenerate: number): void {
         email: faker.internet.email(),
       },
       landingImgUrl: newVenue.landingImgUrl,
-      venueDescriptionImgUrls: {
-        1: faker.image.nature(600, 600, true),
-        2: faker.image.nature(600, 600, true),
-        3: faker.image.nature(600, 600, true),
-        4: faker.image.nature(600, 600, true),
-        5: faker.image.nature(600, 600, true),
-        6: faker.image.nature(600, 600, true),
-        7: faker.image.nature(600, 600, true),
-      },
+      venueDescriptionImgUrls: generateVenueDescriptionImgsUrls(8)
     };
     let addressToGenerate: string = faker.address.city();
     while (addressesCache.includes(addressToGenerate)) {
