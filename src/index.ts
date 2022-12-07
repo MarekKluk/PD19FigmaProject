@@ -1,14 +1,57 @@
-import './styles.css';
+import '../src/styles.css';
 import { faker } from '@faker-js/faker/locale/pl';
 
-let venueArray = [];
-let venueDetailsArray = [];
-let usedIdsArray = [];
-let generatedLocalizations = [];
-let addressesCache = [];
+let venueArray: VenueType[] = [];
+let venueDetailsArray: VenueDetailsType[] = [];
+let usedIdsArray: number[] = [];
+let generatedLocalizations: {label: string}[] = [];
+let addressesCache: string[] = [];
 
-//faker unique
-function generateUniqueId() {
+type Location = {
+  postalCode: string | number;
+  name: string;
+}
+type SleepingDetails = {
+  maxCapacity: number;
+  amountOfBeds: number;
+}
+type ContactDetails = {
+  phone: string;
+  email: string;
+}
+
+type VenueType = {
+  id: number;
+  location: Location;
+  pricePerNightInEur: number;
+  rating: number;
+  capacity: number;
+  name: string;
+  albumId: number;
+  landingImgUrl: string;
+};
+
+type VenueDetailsType = {
+  id: number;
+  venueId: number;
+  location: Location;
+  pricePerNightInEur: number;
+  rating: number;
+  capacity: number;
+  name: string;
+  albumId: number;
+  description: string;
+  features: string[];
+  sleepingDetails: SleepingDetails;
+  checkInHour: string;
+  checkOutHour: string;
+  distanceFromCityCenterInKM: number;
+  contactDetails: ContactDetails;
+  landingImgUrl: string;
+  venueDescriptionImgUrls: string[];
+};
+
+function generateUniqueId(): number {
   let randomNumber = faker.datatype.number({ min: 1000, max: 99999 });
   while (usedIdsArray.includes(randomNumber)) {
     randomNumber = faker.datatype.number({ min: 1000, max: 99999 });
@@ -17,18 +60,26 @@ function generateUniqueId() {
   return randomNumber;
 }
 
-function generateRandomFeatures() {
-  const featuresArray = [];
-  const amountOfFeatures = faker.datatype.number({ min: 5, max: 9 });
+function generateRandomFeatures(): string[] {
+  const featuresArray: string[] = [];
+  const amountOfFeatures: number = faker.datatype.number({ min: 5, max: 9 });
   for (let i = 0; i <= amountOfFeatures; i++) {
     featuresArray.push(faker.lorem.word());
   }
   return featuresArray;
 }
 
-function generateFakeVenuesData(numberOfVenuesToGenerate) {
+function generateVenueDescriptionImgsUrls(amountOfUrls: number): string[] {
+  const imgsUrlArray = []
+  for(let i=0; i<=amountOfUrls; i++) {
+    imgsUrlArray.push(faker.image.nature(600, 600, true))
+  }
+  return imgsUrlArray
+}
+
+function generateFakeVenuesData(numberOfVenuesToGenerate: number): void {
   for (let i = 1; i <= numberOfVenuesToGenerate; i++) {
-    const newVenue = {
+    const newVenue: VenueType = {
       id: i,
       location: {
         postalCode: faker.address.zipCode(),
@@ -45,7 +96,7 @@ function generateFakeVenuesData(numberOfVenuesToGenerate) {
       albumId: i,
       landingImgUrl: faker.image.city(600, 600, true),
     };
-    const newVenueDetails = {
+    const newVenueDetails: VenueDetailsType = {
       id: generateUniqueId(),
       venueId: newVenue.id,
       location: {
@@ -71,17 +122,9 @@ function generateFakeVenuesData(numberOfVenuesToGenerate) {
         email: faker.internet.email(),
       },
       landingImgUrl: newVenue.landingImgUrl,
-      venueDescriptionImgUrls: {
-        1: faker.image.nature(600, 600, true),
-        2: faker.image.nature(600, 600, true),
-        3: faker.image.nature(600, 600, true),
-        4: faker.image.nature(600, 600, true),
-        5: faker.image.nature(600, 600, true),
-        6: faker.image.nature(600, 600, true),
-        7: faker.image.nature(600, 600, true),
-      },
+      venueDescriptionImgUrls: generateVenueDescriptionImgsUrls(8)
     };
-    let addressToGenerate = faker.address.city();
+    let addressToGenerate: string = faker.address.city();
     while (addressesCache.includes(addressToGenerate)) {
       addressToGenerate = faker.address.city();
     }
@@ -97,8 +140,10 @@ function generateFakeVenuesData(numberOfVenuesToGenerate) {
 
 generateFakeVenuesData(100);
 
-function createVenuesDetailsListWithPairedVenueId(venuesDetails) {
-  let venueDetailsAndHisVenueId = {};
+function createVenuesDetailsListWithPairedVenueId(
+  venuesDetails: VenueDetailsType[],
+) {
+  let venueDetailsAndHisVenueId: { [index: number]: VenueDetailsType } = {};
   venuesDetails.forEach((venue) => {
     venueDetailsAndHisVenueId[Number(venue.venueId)] = venue;
   });
